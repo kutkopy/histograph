@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="276-32-08">
+		<attr name="x_std">
+			<float>16.879555</float>
+		</attr>
+		<attr name="y_std">
+			<float>4.1171365</float>
+		</attr>
+		<node id="276-32-08_0">
+			<attr name="x">
+				<float>1.0367572</float>
+			</attr>
+			<attr name="y">
+				<float>-2.108468</float>
+			</attr>
+		</node>
+		<node id="276-32-08_1">
+			<attr name="x">
+				<float>1.1552438</float>
+			</attr>
+			<attr name="y">
+				<float>-1.8655809</float>
+			</attr>
+		</node>
+		<node id="276-32-08_2">
+			<attr name="x">
+				<float>1.0367572</float>
+			</attr>
+			<attr name="y">
+				<float>-0.65114456</float>
+			</attr>
+		</node>
+		<node id="276-32-08_3">
+			<attr name="x">
+				<float>1.2144871</float>
+			</attr>
+			<attr name="y">
+				<float>0.07751721</float>
+			</attr>
+		</node>
+		<node id="276-32-08_4">
+			<attr name="x">
+				<float>1.2144871</float>
+			</attr>
+			<attr name="y">
+				<float>0.5632917</float>
+			</attr>
+		</node>
+		<node id="276-32-08_5">
+			<attr name="x">
+				<float>1.3329736</float>
+			</attr>
+			<attr name="y">
+				<float>-2.108468</float>
+			</attr>
+		</node>
+		<node id="276-32-08_6">
+			<attr name="x">
+				<float>-0.6812976</float>
+			</attr>
+			<attr name="y">
+				<float>-0.65114456</float>
+			</attr>
+		</node>
+		<node id="276-32-08_7">
+			<attr name="x">
+				<float>-0.97751397</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3798064</float>
+			</attr>
+		</node>
+		<node id="276-32-08_8">
+			<attr name="x">
+				<float>-1.2737303</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3798064</float>
+			</attr>
+		</node>
+		<node id="276-32-08_9">
+			<attr name="x">
+				<float>-1.5699466</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4082573</float>
+			</attr>
+		</node>
+		<node id="276-32-08_10">
+			<attr name="x">
+				<float>-1.4514601</float>
+			</attr>
+			<attr name="y">
+				<float>0.5632917</float>
+			</attr>
+		</node>
+		<node id="276-32-08_11">
+			<attr name="x">
+				<float>-1.1552438</float>
+			</attr>
+			<attr name="y">
+				<float>0.806179</float>
+			</attr>
+		</node>
+		<node id="276-32-08_12">
+			<attr name="x">
+				<float>-0.85902745</float>
+			</attr>
+			<attr name="y">
+				<float>0.07751721</float>
+			</attr>
+		</node>
+		<node id="276-32-08_13">
+			<attr name="x">
+				<float>-0.5628111</float>
+			</attr>
+			<attr name="y">
+				<float>-0.16537005</float>
+			</attr>
+		</node>
+		<node id="276-32-08_14">
+			<attr name="x">
+				<float>-0.325838</float>
+			</attr>
+			<attr name="y">
+				<float>0.806179</float>
+			</attr>
+		</node>
+		<node id="276-32-08_15">
+			<attr name="x">
+				<float>-0.029621635</float>
+			</attr>
+			<attr name="y">
+				<float>1.2919536</float>
+			</attr>
+		</node>
+		<node id="276-32-08_16">
+			<attr name="x">
+				<float>0.2665947</float>
+			</attr>
+			<attr name="y">
+				<float>0.806179</float>
+			</attr>
+		</node>
+		<node id="276-32-08_17">
+			<attr name="x">
+				<float>0.5628111</float>
+			</attr>
+			<attr name="y">
+				<float>0.5632917</float>
+			</attr>
+		</node>
+		<node id="276-32-08_18">
+			<attr name="x">
+				<float>0.74054086</float>
+			</attr>
+			<attr name="y">
+				<float>1.2919536</float>
+			</attr>
+		</node>
+		<node id="276-32-08_19">
+			<attr name="x">
+				<float>1.0367572</float>
+			</attr>
+			<attr name="y">
+				<float>1.0490663</float>
+			</attr>
+		</node>
+		<node id="276-32-08_20">
+			<attr name="x">
+				<float>1.3922168</float>
+			</attr>
+			<attr name="y">
+				<float>1.2919536</float>
+			</attr>
+		</node>
+		<node id="276-32-08_21">
+			<attr name="x">
+				<float>0.7997841</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4082573</float>
+			</attr>
+		</node>
+		<edge from="276-32-08_0" to="276-32-08_1"/>
+		<edge from="276-32-08_1" to="276-32-08_2"/>
+		<edge from="276-32-08_2" to="276-32-08_3"/>
+		<edge from="276-32-08_3" to="276-32-08_4"/>
+		<edge from="276-32-08_5" to="276-32-08_1"/>
+		<edge from="276-32-08_6" to="276-32-08_7"/>
+		<edge from="276-32-08_7" to="276-32-08_8"/>
+		<edge from="276-32-08_8" to="276-32-08_9"/>
+		<edge from="276-32-08_9" to="276-32-08_10"/>
+		<edge from="276-32-08_10" to="276-32-08_11"/>
+		<edge from="276-32-08_11" to="276-32-08_12"/>
+		<edge from="276-32-08_12" to="276-32-08_13"/>
+		<edge from="276-32-08_13" to="276-32-08_14"/>
+		<edge from="276-32-08_14" to="276-32-08_15"/>
+		<edge from="276-32-08_15" to="276-32-08_16"/>
+		<edge from="276-32-08_16" to="276-32-08_17"/>
+		<edge from="276-32-08_17" to="276-32-08_18"/>
+		<edge from="276-32-08_18" to="276-32-08_19"/>
+		<edge from="276-32-08_19" to="276-32-08_4"/>
+		<edge from="276-32-08_20" to="276-32-08_4"/>
+		<edge from="276-32-08_17" to="276-32-08_21"/>
+		<edge from="276-32-08_21" to="276-32-08_2"/>
+	</graph>
+</gxl>

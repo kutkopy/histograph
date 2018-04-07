@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="301-17-07">
+		<attr name="x_std">
+			<float>13.048419</float>
+		</attr>
+		<attr name="y_std">
+			<float>9.229249</float>
+		</attr>
+		<node id="301-17-07_0">
+			<attr name="x">
+				<float>0.55269825</float>
+			</attr>
+			<attr name="y">
+				<float>-3.001429</float>
+			</attr>
+		</node>
+		<node id="301-17-07_1">
+			<attr name="x">
+				<float>0.7059735</float>
+			</attr>
+			<attr name="y">
+				<float>-3.001429</float>
+			</attr>
+		</node>
+		<node id="301-17-07_2">
+			<attr name="x">
+				<float>-0.44359106</float>
+			</attr>
+			<attr name="y">
+				<float>0.4658088</float>
+			</attr>
+		</node>
+		<node id="301-17-07_3">
+			<attr name="x">
+				<float>-0.5202287</float>
+			</attr>
+			<attr name="y">
+				<float>0.6825112</float>
+			</attr>
+		</node>
+		<node id="301-17-07_4">
+			<attr name="x">
+				<float>-0.13704051</float>
+			</attr>
+			<attr name="y">
+				<float>0.4658088</float>
+			</attr>
+		</node>
+		<node id="301-17-07_5">
+			<attr name="x">
+				<float>-0.21367815</float>
+			</attr>
+			<attr name="y">
+				<float>0.6825112</float>
+			</attr>
+		</node>
+		<node id="301-17-07_6">
+			<attr name="x">
+				<float>0.55269825</float>
+			</attr>
+			<attr name="y">
+				<float>-0.07594709</float>
+			</attr>
+		</node>
+		<node id="301-17-07_7">
+			<attr name="x">
+				<float>0.39942294</float>
+			</attr>
+			<attr name="y">
+				<float>0.14075528</float>
+			</attr>
+		</node>
+		<node id="301-17-07_8">
+			<attr name="x">
+				<float>0.85924876</float>
+			</attr>
+			<attr name="y">
+				<float>0.6825112</float>
+			</attr>
+		</node>
+		<node id="301-17-07_9">
+			<attr name="x">
+				<float>1.1657994</float>
+			</attr>
+			<attr name="y">
+				<float>0.6825112</float>
+			</attr>
+		</node>
+		<node id="301-17-07_10">
+			<attr name="x">
+				<float>1.242437</float>
+			</attr>
+			<attr name="y">
+				<float>0.24910645</float>
+			</attr>
+		</node>
+		<node id="301-17-07_11">
+			<attr name="x">
+				<float>0.93588644</float>
+			</attr>
+			<attr name="y">
+				<float>0.24910645</float>
+			</attr>
+		</node>
+		<node id="301-17-07_12">
+			<attr name="x">
+				<float>0.93588644</float>
+			</attr>
+			<attr name="y">
+				<float>-0.29264945</float>
+			</attr>
+		</node>
+		<node id="301-17-07_13">
+			<attr name="x">
+				<float>1.242437</float>
+			</attr>
+			<attr name="y">
+				<float>-0.40100065</float>
+			</attr>
+		</node>
+		<node id="301-17-07_14">
+			<attr name="x">
+				<float>-1.2866051</float>
+			</attr>
+			<attr name="y">
+				<float>-0.18429828</float>
+			</attr>
+		</node>
+		<node id="301-17-07_15">
+			<attr name="x">
+				<float>-0.98005456</float>
+			</attr>
+			<attr name="y">
+				<float>-0.29264945</float>
+			</attr>
+		</node>
+		<node id="301-17-07_16">
+			<attr name="x">
+				<float>-1.4398804</float>
+			</attr>
+			<attr name="y">
+				<float>0.24910645</float>
+			</attr>
+		</node>
+		<node id="301-17-07_17">
+			<attr name="x">
+				<float>-0.673504</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5093518</float>
+			</attr>
+		</node>
+		<node id="301-17-07_18">
+			<attr name="x">
+				<float>-1.0566921</float>
+			</attr>
+			<attr name="y">
+				<float>0.24910645</float>
+			</attr>
+		</node>
+		<node id="301-17-07_19">
+			<attr name="x">
+				<float>-1.3632427</float>
+			</attr>
+			<attr name="y">
+				<float>0.7908624</float>
+			</attr>
+		</node>
+		<node id="301-17-07_20">
+			<attr name="x">
+				<float>-0.98005456</float>
+			</attr>
+			<attr name="y">
+				<float>0.7908624</float>
+			</attr>
+		</node>
+		<node id="301-17-07_21">
+			<attr name="x">
+				<float>0.4760606</float>
+			</attr>
+			<attr name="y">
+				<float>0.89921355</float>
+			</attr>
+		</node>
+		<edge from="301-17-07_0" to="301-17-07_1"/>
+		<edge from="301-17-07_2" to="301-17-07_3"/>
+		<edge from="301-17-07_4" to="301-17-07_5"/>
+		<edge from="301-17-07_6" to="301-17-07_7"/>
+		<edge from="301-17-07_3" to="301-17-07_5"/>
+		<edge from="301-17-07_8" to="301-17-07_9"/>
+		<edge from="301-17-07_10" to="301-17-07_11"/>
+		<edge from="301-17-07_11" to="301-17-07_8"/>
+		<edge from="301-17-07_12" to="301-17-07_13"/>
+		<edge from="301-17-07_14" to="301-17-07_15"/>
+		<edge from="301-17-07_16" to="301-17-07_14"/>
+		<edge from="301-17-07_15" to="301-17-07_17"/>
+		<edge from="301-17-07_18" to="301-17-07_16"/>
+		<edge from="301-17-07_19" to="301-17-07_20"/>
+		<edge from="301-17-07_12" to="301-17-07_11"/>
+		<edge from="301-17-07_19" to="301-17-07_16"/>
+		<edge from="301-17-07_12" to="301-17-07_6"/>
+		<edge from="301-17-07_21" to="301-17-07_8"/>
+		<edge from="301-17-07_20" to="301-17-07_3"/>
+		<edge from="301-17-07_7" to="301-17-07_4"/>
+	</graph>
+</gxl>

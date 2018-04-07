@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="276-08-02">
+		<attr name="x_std">
+			<float>12.267844</float>
+		</attr>
+		<attr name="y_std">
+			<float>0.5436787</float>
+		</attr>
+		<node id="276-08-02_0">
+			<attr name="x">
+				<float>-1.6710353</float>
+			</attr>
+			<attr name="y">
+				<float>2.583809</float>
+			</attr>
+		</node>
+		<node id="276-08-02_1">
+			<attr name="x">
+				<float>-1.3449796</float>
+			</attr>
+			<attr name="y">
+				<float>0.74448735</float>
+			</attr>
+		</node>
+		<node id="276-08-02_2">
+			<attr name="x">
+				<float>-0.93741</float>
+			</attr>
+			<attr name="y">
+				<float>0.74448735</float>
+			</attr>
+		</node>
+		<node id="276-08-02_3">
+			<attr name="x">
+				<float>-0.52984047</float>
+			</attr>
+			<attr name="y">
+				<float>0.74448735</float>
+			</attr>
+		</node>
+		<node id="276-08-02_4">
+			<attr name="x">
+				<float>-0.122270875</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0948343</float>
+			</attr>
+		</node>
+		<node id="276-08-02_5">
+			<attr name="x">
+				<float>0.2852987</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0948343</float>
+			</attr>
+		</node>
+		<node id="276-08-02_6">
+			<attr name="x">
+				<float>0.6928683</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0948343</float>
+			</attr>
+		</node>
+		<node id="276-08-02_7">
+			<attr name="x">
+				<float>1.1004379</float>
+			</attr>
+			<attr name="y">
+				<float>0.74448735</float>
+			</attr>
+		</node>
+		<node id="276-08-02_8">
+			<attr name="x">
+				<float>1.5080074</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0948343</float>
+			</attr>
+		</node>
+		<node id="276-08-02_9">
+			<attr name="x">
+				<float>1.6710353</float>
+			</attr>
+			<attr name="y">
+				<float>0.74448735</float>
+			</attr>
+		</node>
+		<edge from="276-08-02_0" to="276-08-02_1"/>
+		<edge from="276-08-02_1" to="276-08-02_2"/>
+		<edge from="276-08-02_2" to="276-08-02_3"/>
+		<edge from="276-08-02_3" to="276-08-02_4"/>
+		<edge from="276-08-02_4" to="276-08-02_5"/>
+		<edge from="276-08-02_5" to="276-08-02_6"/>
+		<edge from="276-08-02_6" to="276-08-02_7"/>
+		<edge from="276-08-02_7" to="276-08-02_8"/>
+		<edge from="276-08-02_8" to="276-08-02_9"/>
+	</graph>
+</gxl>

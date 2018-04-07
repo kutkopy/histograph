@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="276-30-07">
+		<attr name="x_std">
+			<float>6.829099</float>
+		</attr>
+		<attr name="y_std">
+			<float>1.8255066</float>
+		</attr>
+		<node id="276-30-07_0">
+			<attr name="x">
+				<float>-0.78952616</float>
+			</attr>
+			<attr name="y">
+				<float>-0.15812586</float>
+			</attr>
+		</node>
+		<node id="276-30-07_1">
+			<attr name="x">
+				<float>0.3819314</float>
+			</attr>
+			<attr name="y">
+				<float>-0.15812586</float>
+			</attr>
+		</node>
+		<node id="276-30-07_2">
+			<attr name="x">
+				<float>1.2605245</float>
+			</attr>
+			<attr name="y">
+				<float>-0.15812586</float>
+			</attr>
+		</node>
+		<node id="276-30-07_3">
+			<attr name="x">
+				<float>-1.5216872</float>
+			</attr>
+			<attr name="y">
+				<float>-0.15812586</float>
+			</attr>
+		</node>
+		<edge from="276-30-07_0" to="276-30-07_1"/>
+		<edge from="276-30-07_1" to="276-30-07_2"/>
+		<edge from="276-30-07_3" to="276-30-07_0"/>
+	</graph>
+</gxl>

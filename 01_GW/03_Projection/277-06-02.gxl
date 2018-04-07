@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="277-06-02">
+		<attr name="x_std">
+			<float>18.159807</float>
+		</attr>
+		<attr name="y_std">
+			<float>3.669242</float>
+		</attr>
+		<node id="277-06-02_0">
+			<attr name="x">
+				<float>0.9645821</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1898177</float>
+			</attr>
+		</node>
+		<node id="277-06-02_1">
+			<attr name="x">
+				<float>0.90951544</float>
+			</attr>
+			<attr name="y">
+				<float>-0.37221012</float>
+			</attr>
+		</node>
+		<node id="277-06-02_2">
+			<attr name="x">
+				<float>1.3500488</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4623536</float>
+			</attr>
+		</node>
+		<node id="277-06-02_3">
+			<attr name="x">
+				<float>1.3500488</float>
+			</attr>
+			<attr name="y">
+				<float>0.17286162</float>
+			</attr>
+		</node>
+		<node id="277-06-02_4">
+			<attr name="x">
+				<float>-1.4583513</float>
+			</attr>
+			<attr name="y">
+				<float>0.4453975</float>
+			</attr>
+		</node>
+		<node id="277-06-02_5">
+			<attr name="x">
+				<float>-1.2380846</float>
+			</attr>
+			<attr name="y">
+				<float>0.17286162</float>
+			</attr>
+		</node>
+		<node id="277-06-02_6">
+			<attr name="x">
+				<float>-1.0178179</float>
+			</attr>
+			<attr name="y">
+				<float>-0.09967425</float>
+			</attr>
+		</node>
+		<node id="277-06-02_7">
+			<attr name="x">
+				<float>-0.7975512</float>
+			</attr>
+			<attr name="y">
+				<float>-0.37221012</float>
+			</attr>
+		</node>
+		<node id="277-06-02_8">
+			<attr name="x">
+				<float>-0.5772846</float>
+			</attr>
+			<attr name="y">
+				<float>-0.37221012</float>
+			</attr>
+		</node>
+		<node id="277-06-02_9">
+			<attr name="x">
+				<float>-0.3570179</float>
+			</attr>
+			<attr name="y">
+				<float>-0.09967425</float>
+			</attr>
+		</node>
+		<node id="277-06-02_10">
+			<attr name="x">
+				<float>-0.13675123</float>
+			</attr>
+			<attr name="y">
+				<float>-0.09967425</float>
+			</attr>
+		</node>
+		<node id="277-06-02_11">
+			<attr name="x">
+				<float>0.08351543</float>
+			</attr>
+			<attr name="y">
+				<float>0.9904692</float>
+			</attr>
+		</node>
+		<node id="277-06-02_12">
+			<attr name="x">
+				<float>0.3037821</float>
+			</attr>
+			<attr name="y">
+				<float>0.71793336</float>
+			</attr>
+		</node>
+		<node id="277-06-02_13">
+			<attr name="x">
+				<float>0.4689821</float>
+			</attr>
+			<attr name="y">
+				<float>0.4453975</float>
+			</attr>
+		</node>
+		<node id="277-06-02_14">
+			<attr name="x">
+				<float>0.52404875</float>
+			</attr>
+			<attr name="y">
+				<float>0.4453975</float>
+			</attr>
+		</node>
+		<node id="277-06-02_15">
+			<attr name="x">
+				<float>1.1297821</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4623536</float>
+			</attr>
+		</node>
+		<node id="277-06-02_16">
+			<attr name="x">
+				<float>1.1297821</float>
+			</attr>
+			<attr name="y">
+				<float>0.4453975</float>
+			</attr>
+		</node>
+		<node id="277-06-02_17">
+			<attr name="x">
+				<float>1.5152488</float>
+			</attr>
+			<attr name="y">
+				<float>-0.644746</float>
+			</attr>
+		</node>
+		<edge from="277-06-02_0" to="277-06-02_1"/>
+		<edge from="277-06-02_2" to="277-06-02_3"/>
+		<edge from="277-06-02_4" to="277-06-02_5"/>
+		<edge from="277-06-02_5" to="277-06-02_6"/>
+		<edge from="277-06-02_6" to="277-06-02_7"/>
+		<edge from="277-06-02_7" to="277-06-02_8"/>
+		<edge from="277-06-02_8" to="277-06-02_9"/>
+		<edge from="277-06-02_9" to="277-06-02_10"/>
+		<edge from="277-06-02_10" to="277-06-02_11"/>
+		<edge from="277-06-02_11" to="277-06-02_12"/>
+		<edge from="277-06-02_12" to="277-06-02_13"/>
+		<edge from="277-06-02_13" to="277-06-02_14"/>
+		<edge from="277-06-02_0" to="277-06-02_15"/>
+		<edge from="277-06-02_15" to="277-06-02_2"/>
+		<edge from="277-06-02_16" to="277-06-02_3"/>
+		<edge from="277-06-02_2" to="277-06-02_17"/>
+		<edge from="277-06-02_3" to="277-06-02_17"/>
+	</graph>
+</gxl>

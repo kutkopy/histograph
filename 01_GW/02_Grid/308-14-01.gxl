@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="308-14-01">
+		<attr name="x_std">
+			<float>9.257046</float>
+		</attr>
+		<attr name="y_std">
+			<float>4.385805</float>
+		</attr>
+		<node id="308-14-01_0">
+			<attr name="x">
+				<float>-1.3405185</float>
+			</attr>
+			<attr name="y">
+				<float>1.8729792</float>
+			</attr>
+		</node>
+		<node id="308-14-01_1">
+			<attr name="x">
+				<float>-1.016441</float>
+			</attr>
+			<attr name="y">
+				<float>1.8729792</float>
+			</attr>
+		</node>
+		<node id="308-14-01_2">
+			<attr name="x">
+				<float>-0.26026025</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3191372</float>
+			</attr>
+		</node>
+		<node id="308-14-01_3">
+			<attr name="x">
+				<float>-0.15223442</float>
+			</attr>
+			<attr name="y">
+				<float>-0.6351123</float>
+			</attr>
+		</node>
+		<node id="308-14-01_4">
+			<attr name="x">
+				<float>1.468153</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7751539</float>
+			</attr>
+		</node>
+		<node id="308-14-01_5">
+			<attr name="x">
+				<float>1.0360497</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7751539</float>
+			</attr>
+		</node>
+		<node id="308-14-01_6">
+			<attr name="x">
+				<float>-1.5565702</float>
+			</attr>
+			<attr name="y">
+				<float>0.96094596</float>
+			</attr>
+		</node>
+		<node id="308-14-01_7">
+			<attr name="x">
+				<float>-1.1244669</float>
+			</attr>
+			<attr name="y">
+				<float>0.96094596</float>
+			</attr>
+		</node>
+		<node id="308-14-01_8">
+			<attr name="x">
+				<float>0.49592054</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3191372</float>
+			</attr>
+		</node>
+		<node id="308-14-01_9">
+			<attr name="x">
+				<float>0.38789472</float>
+			</attr>
+			<attr name="y">
+				<float>-0.40710396</float>
+			</attr>
+		</node>
+		<node id="308-14-01_10">
+			<attr name="x">
+				<float>-0.80038935</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3191372</float>
+			</attr>
+		</node>
+		<node id="308-14-01_11">
+			<attr name="x">
+				<float>-0.9084152</float>
+			</attr>
+			<attr name="y">
+				<float>-0.40710396</float>
+			</attr>
+		</node>
+		<node id="308-14-01_12">
+			<attr name="x">
+				<float>0.9280238</float>
+			</attr>
+			<attr name="y">
+				<float>-0.40710396</float>
+			</attr>
+		</node>
+		<node id="308-14-01_13">
+			<attr name="x">
+				<float>-1.4485443</float>
+			</attr>
+			<attr name="y">
+				<float>-0.17909564</float>
+			</attr>
+		</node>
+		<node id="308-14-01_14">
+			<attr name="x">
+				<float>0.49592054</float>
+			</attr>
+			<attr name="y">
+				<float>0.73293763</float>
+			</attr>
+		</node>
+		<node id="308-14-01_15">
+			<attr name="x">
+				<float>1.0360497</float>
+			</attr>
+			<attr name="y">
+				<float>0.96094596</float>
+			</attr>
+		</node>
+		<node id="308-14-01_16">
+			<attr name="x">
+				<float>-0.26026025</float>
+			</attr>
+			<attr name="y">
+				<float>0.5049293</float>
+			</attr>
+		</node>
+		<node id="308-14-01_17">
+			<attr name="x">
+				<float>1.5761788</float>
+			</attr>
+			<attr name="y">
+				<float>1.4169626</float>
+			</attr>
+		</node>
+		<edge from="308-14-01_0" to="308-14-01_1"/>
+		<edge from="308-14-01_2" to="308-14-01_3"/>
+		<edge from="308-14-01_4" to="308-14-01_5"/>
+		<edge from="308-14-01_6" to="308-14-01_7"/>
+		<edge from="308-14-01_8" to="308-14-01_9"/>
+		<edge from="308-14-01_7" to="308-14-01_1"/>
+		<edge from="308-14-01_10" to="308-14-01_11"/>
+		<edge from="308-14-01_9" to="308-14-01_12"/>
+		<edge from="308-14-01_10" to="308-14-01_2"/>
+		<edge from="308-14-01_13" to="308-14-01_11"/>
+		<edge from="308-14-01_14" to="308-14-01_15"/>
+		<edge from="308-14-01_3" to="308-14-01_9"/>
+		<edge from="308-14-01_3" to="308-14-01_16"/>
+		<edge from="308-14-01_13" to="308-14-01_6"/>
+		<edge from="308-14-01_14" to="308-14-01_9"/>
+		<edge from="308-14-01_8" to="308-14-01_5"/>
+		<edge from="308-14-01_15" to="308-14-01_17"/>
+	</graph>
+</gxl>

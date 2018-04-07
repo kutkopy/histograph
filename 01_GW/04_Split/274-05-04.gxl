@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="274-05-04">
+		<attr name="x_std">
+			<float>28.201998</float>
+		</attr>
+		<attr name="y_std">
+			<float>1.4286039</float>
+		</attr>
+		<node id="274-05-04_0">
+			<attr name="x">
+				<float>1.2895309</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3952063</float>
+			</attr>
+		</node>
+		<node id="274-05-04_1">
+			<attr name="x">
+				<float>1.218614</float>
+			</attr>
+			<attr name="y">
+				<float>-0.69522226</float>
+			</attr>
+		</node>
+		<node id="274-05-04_2">
+			<attr name="x">
+				<float>1.4668233</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3952063</float>
+			</attr>
+		</node>
+		<node id="274-05-04_3">
+			<attr name="x">
+				<float>1.5731988</float>
+			</attr>
+			<attr name="y">
+				<float>-0.69522226</float>
+			</attr>
+		</node>
+		<node id="274-05-04_4">
+			<attr name="x">
+				<float>-1.6535231</float>
+			</attr>
+			<attr name="y">
+				<float>0.0047617964</float>
+			</attr>
+		</node>
+		<node id="274-05-04_5">
+			<attr name="x">
+				<float>-1.5116892</float>
+			</attr>
+			<attr name="y">
+				<float>0.0047617964</float>
+			</attr>
+		</node>
+		<node id="274-05-04_6">
+			<attr name="x">
+				<float>-1.2634798</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_7">
+			<attr name="x">
+				<float>0.013025565</float>
+			</attr>
+			<attr name="y">
+				<float>0.0047617964</float>
+			</attr>
+		</node>
+		<node id="274-05-04_8">
+			<attr name="x">
+				<float>0.1548595</float>
+			</attr>
+			<attr name="y">
+				<float>0.0047617964</float>
+			</attr>
+		</node>
+		<node id="274-05-04_9">
+			<attr name="x">
+				<float>-0.837978</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_10">
+			<attr name="x">
+				<float>-0.6252271</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_11">
+			<attr name="x">
+				<float>-0.4124762</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_12">
+			<attr name="x">
+				<float>-0.19972533</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_13">
+			<attr name="x">
+				<float>0.82857066</float>
+			</attr>
+			<attr name="y">
+				<float>-0.69522226</float>
+			</attr>
+		</node>
+		<node id="274-05-04_14">
+			<attr name="x">
+				<float>1.0413215</float>
+			</attr>
+			<attr name="y">
+				<float>-0.69522226</float>
+			</attr>
+		</node>
+		<node id="274-05-04_15">
+			<attr name="x">
+				<float>-1.0507289</float>
+			</attr>
+			<attr name="y">
+				<float>0.7047459</float>
+			</attr>
+		</node>
+		<node id="274-05-04_16">
+			<attr name="x">
+				<float>0.40306887</float>
+			</attr>
+			<attr name="y">
+				<float>0.0047617964</float>
+			</attr>
+		</node>
+		<node id="274-05-04_17">
+			<attr name="x">
+				<float>0.61581975</float>
+			</attr>
+			<attr name="y">
+				<float>-0.69522226</float>
+			</attr>
+		</node>
+		<edge from="274-05-04_0" to="274-05-04_1"/>
+		<edge from="274-05-04_2" to="274-05-04_3"/>
+		<edge from="274-05-04_0" to="274-05-04_2"/>
+		<edge from="274-05-04_4" to="274-05-04_5"/>
+		<edge from="274-05-04_5" to="274-05-04_6"/>
+		<edge from="274-05-04_7" to="274-05-04_8"/>
+		<edge from="274-05-04_9" to="274-05-04_10"/>
+		<edge from="274-05-04_10" to="274-05-04_11"/>
+		<edge from="274-05-04_11" to="274-05-04_12"/>
+		<edge from="274-05-04_12" to="274-05-04_7"/>
+		<edge from="274-05-04_13" to="274-05-04_14"/>
+		<edge from="274-05-04_6" to="274-05-04_15"/>
+		<edge from="274-05-04_15" to="274-05-04_9"/>
+		<edge from="274-05-04_16" to="274-05-04_17"/>
+		<edge from="274-05-04_17" to="274-05-04_13"/>
+		<edge from="274-05-04_8" to="274-05-04_16"/>
+		<edge from="274-05-04_14" to="274-05-04_1"/>
+	</graph>
+</gxl>

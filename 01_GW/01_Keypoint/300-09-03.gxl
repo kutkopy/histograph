@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="300-09-03">
+		<attr name="x_std">
+			<float>68.13935</float>
+		</attr>
+		<attr name="y_std">
+			<float>12.195744</float>
+		</attr>
+		<node id="300-09-03_0">
+			<attr name="x">
+				<float>-1.6406088</float>
+			</attr>
+			<attr name="y">
+				<float>-3.0316932</float>
+			</attr>
+		</node>
+		<node id="300-09-03_1">
+			<attr name="x">
+				<float>-1.6112572</float>
+			</attr>
+			<attr name="y">
+				<float>-2.7857058</float>
+			</attr>
+		</node>
+		<node id="300-09-03_2">
+			<attr name="x">
+				<float>-1.5819056</float>
+			</attr>
+			<attr name="y">
+				<float>-2.621714</float>
+			</attr>
+		</node>
+		<node id="300-09-03_3">
+			<attr name="x">
+				<float>0.7808993</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_4">
+			<attr name="x">
+				<float>0.7662235</float>
+			</attr>
+			<attr name="y">
+				<float>0.084147945</float>
+			</attr>
+		</node>
+		<node id="300-09-03_5">
+			<attr name="x">
+				<float>0.70752025</float>
+			</attr>
+			<attr name="y">
+				<float>-0.24383534</float>
+			</attr>
+		</node>
+		<node id="300-09-03_6">
+			<attr name="x">
+				<float>0.6341412</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_7">
+			<attr name="x">
+				<float>0.56076217</float>
+			</attr>
+			<attr name="y">
+				<float>0.24813959</float>
+			</attr>
+		</node>
+		<node id="300-09-03_8">
+			<attr name="x">
+				<float>0.575438</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_9">
+			<attr name="x">
+				<float>0.56076217</float>
+			</attr>
+			<attr name="y">
+				<float>0.7401145</float>
+			</attr>
+		</node>
+		<node id="300-09-03_10">
+			<attr name="x">
+				<float>0.82492673</float>
+			</attr>
+			<attr name="y">
+				<float>0.16614377</float>
+			</attr>
+		</node>
+		<node id="300-09-03_11">
+			<attr name="x">
+				<float>0.81025094</float>
+			</attr>
+			<attr name="y">
+				<float>-0.24383534</float>
+			</attr>
+		</node>
+		<node id="300-09-03_12">
+			<attr name="x">
+				<float>0.64881706</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_13">
+			<attr name="x">
+				<float>0.72219604</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_14">
+			<attr name="x">
+				<float>0.7955751</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_15">
+			<attr name="x">
+				<float>0.8689541</float>
+			</attr>
+			<attr name="y">
+				<float>0.7401145</float>
+			</attr>
+		</node>
+		<node id="300-09-03_16">
+			<attr name="x">
+				<float>0.94233316</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_17">
+			<attr name="x">
+				<float>0.17919122</float>
+			</attr>
+			<attr name="y">
+				<float>-2.293731</float>
+			</attr>
+		</node>
+		<node id="300-09-03_18">
+			<attr name="x">
+				<float>0.1645154</float>
+			</attr>
+			<attr name="y">
+				<float>-2.4577227</float>
+			</attr>
+		</node>
+		<node id="300-09-03_19">
+			<attr name="x">
+				<float>0.25257024</float>
+			</attr>
+			<attr name="y">
+				<float>-2.211735</float>
+			</attr>
+		</node>
+		<node id="300-09-03_20">
+			<attr name="x">
+				<float>-0.33446202</float>
+			</attr>
+			<attr name="y">
+				<float>-2.211735</float>
+			</attr>
+		</node>
+		<node id="300-09-03_21">
+			<attr name="x">
+				<float>-0.39316526</float>
+			</attr>
+			<attr name="y">
+				<float>-2.0477436</float>
+			</attr>
+		</node>
+		<node id="300-09-03_22">
+			<attr name="x">
+				<float>-0.46654427</float>
+			</attr>
+			<attr name="y">
+				<float>-1.801756</float>
+			</attr>
+		</node>
+		<node id="300-09-03_23">
+			<attr name="x">
+				<float>-0.4958959</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5557685</float>
+			</attr>
+		</node>
+		<node id="300-09-03_24">
+			<attr name="x">
+				<float>-0.4958959</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3917769</float>
+			</attr>
+		</node>
+		<node id="300-09-03_25">
+			<attr name="x">
+				<float>-0.5545991</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2277852</float>
+			</attr>
+		</node>
+		<node id="300-09-03_26">
+			<attr name="x">
+				<float>-0.61330235</float>
+			</attr>
+			<attr name="y">
+				<float>-0.8998019</float>
+			</attr>
+		</node>
+		<node id="300-09-03_27">
+			<attr name="x">
+				<float>-0.6573298</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4898228</float>
+			</attr>
+		</node>
+		<node id="300-09-03_28">
+			<attr name="x">
+				<float>-0.716033</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_29">
+			<attr name="x">
+				<float>-0.7747362</float>
+			</attr>
+			<attr name="y">
+				<float>0.24813959</float>
+			</attr>
+		</node>
+		<node id="300-09-03_30">
+			<attr name="x">
+				<float>-0.8187637</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_31">
+			<attr name="x">
+				<float>-0.8040878</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_32">
+			<attr name="x">
+				<float>-0.83343947</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_33">
+			<attr name="x">
+				<float>-0.46654427</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2277852</float>
+			</attr>
+		</node>
+		<node id="300-09-03_34">
+			<attr name="x">
+				<float>-0.6866814</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_35">
+			<attr name="x">
+				<float>-0.74538463</float>
+			</attr>
+			<attr name="y">
+				<float>0.986102</float>
+			</attr>
+		</node>
+		<node id="300-09-03_36">
+			<attr name="x">
+				<float>1.1477945</float>
+			</attr>
+			<attr name="y">
+				<float>1.9700519</float>
+			</attr>
+		</node>
+		<node id="300-09-03_37">
+			<attr name="x">
+				<float>1.103767</float>
+			</attr>
+			<attr name="y">
+				<float>1.9700519</float>
+			</attr>
+		</node>
+		<node id="300-09-03_38">
+			<attr name="x">
+				<float>1.5440413</float>
+			</attr>
+			<attr name="y">
+				<float>-2.0477436</float>
+			</attr>
+		</node>
+		<node id="300-09-03_39">
+			<attr name="x">
+				<float>1.5146897</float>
+			</attr>
+			<attr name="y">
+				<float>-1.801756</float>
+			</attr>
+		</node>
+		<node id="300-09-03_40">
+			<attr name="x">
+				<float>1.33858</float>
+			</attr>
+			<attr name="y">
+				<float>-0.65381444</float>
+			</attr>
+		</node>
+		<node id="300-09-03_41">
+			<attr name="x">
+				<float>1.3532557</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0637935</float>
+			</attr>
+		</node>
+		<node id="300-09-03_42">
+			<attr name="x">
+				<float>1.4119589</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3917769</float>
+			</attr>
+		</node>
+		<node id="300-09-03_43">
+			<attr name="x">
+				<float>1.4706622</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7197602</float>
+			</attr>
+		</node>
+		<node id="300-09-03_44">
+			<attr name="x">
+				<float>1.5440413</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7197602</float>
+			</attr>
+		</node>
+		<node id="300-09-03_45">
+			<attr name="x">
+				<float>1.4706622</float>
+			</attr>
+			<attr name="y">
+				<float>-1.801756</float>
+			</attr>
+		</node>
+		<node id="300-09-03_46">
+			<attr name="x">
+				<float>1.632096</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_47">
+			<attr name="x">
+				<float>1.5733929</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_48">
+			<attr name="x">
+				<float>1.5000138</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_49">
+			<attr name="x">
+				<float>1.4266348</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_50">
+			<attr name="x">
+				<float>1.3532557</float>
+			</attr>
+			<attr name="y">
+				<float>-0.57181865</float>
+			</attr>
+		</node>
+		<node id="300-09-03_51">
+			<attr name="x">
+				<float>1.1918219</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_52">
+			<attr name="x">
+				<float>1.2505251</float>
+			</attr>
+			<attr name="y">
+				<float>-0.32583117</float>
+			</attr>
+		</node>
+		<node id="300-09-03_53">
+			<attr name="x">
+				<float>1.3239042</float>
+			</attr>
+			<attr name="y">
+				<float>-0.57181865</float>
+			</attr>
+		</node>
+		<node id="300-09-03_54">
+			<attr name="x">
+				<float>1.1771461</float>
+			</attr>
+			<attr name="y">
+				<float>0.16614377</float>
+			</attr>
+		</node>
+		<node id="300-09-03_55">
+			<attr name="x">
+				<float>1.1331186</float>
+			</attr>
+			<attr name="y">
+				<float>0.5761229</float>
+			</attr>
+		</node>
+		<node id="300-09-03_56">
+			<attr name="x">
+				<float>1.0744154</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_57">
+			<attr name="x">
+				<float>-0.36381364</float>
+			</attr>
+			<attr name="y">
+				<float>0.24813959</float>
+			</attr>
+		</node>
+		<node id="300-09-03_58">
+			<attr name="x">
+				<float>-0.37848943</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_59">
+			<attr name="x">
+				<float>-0.31978622</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_60">
+			<attr name="x">
+				<float>-0.24640718</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_61">
+			<attr name="x">
+				<float>-0.17302814</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_62">
+			<attr name="x">
+				<float>-0.09964912</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_63">
+			<attr name="x">
+				<float>-0.02627008</float>
+			</attr>
+			<attr name="y">
+				<float>0.49412706</float>
+			</attr>
+		</node>
+		<node id="300-09-03_64">
+			<attr name="x">
+				<float>0.03243315</float>
+			</attr>
+			<attr name="y">
+				<float>0.49412706</float>
+			</attr>
+		</node>
+		<node id="300-09-03_65">
+			<attr name="x">
+				<float>0.07646057</float>
+			</attr>
+			<attr name="y">
+				<float>0.16614377</float>
+			</attr>
+		</node>
+		<node id="300-09-03_66">
+			<attr name="x">
+				<float>0.1351638</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_67">
+			<attr name="x">
+				<float>-0.40784106</float>
+			</attr>
+			<attr name="y">
+				<float>0.16614377</float>
+			</attr>
+		</node>
+		<node id="300-09-03_68">
+			<attr name="x">
+				<float>-0.4812201</float>
+			</attr>
+			<attr name="y">
+				<float>0.24813959</float>
+			</attr>
+		</node>
+		<node id="300-09-03_69">
+			<attr name="x">
+				<float>-0.5545991</float>
+			</attr>
+			<attr name="y">
+				<float>0.49412706</float>
+			</attr>
+		</node>
+		<node id="300-09-03_70">
+			<attr name="x">
+				<float>-0.56927496</float>
+			</attr>
+			<attr name="y">
+				<float>0.5761229</float>
+			</attr>
+		</node>
+		<node id="300-09-03_71">
+			<attr name="x">
+				<float>-0.31978622</float>
+			</attr>
+			<attr name="y">
+				<float>0.0021521214</float>
+			</attr>
+		</node>
+		<node id="300-09-03_72">
+			<attr name="x">
+				<float>0.39932832</float>
+			</attr>
+			<attr name="y">
+				<float>0.49412706</float>
+			</attr>
+		</node>
+		<node id="300-09-03_73">
+			<attr name="x">
+				<float>0.34062508</float>
+			</attr>
+			<attr name="y">
+				<float>0.5761229</float>
+			</attr>
+		</node>
+		<node id="300-09-03_74">
+			<attr name="x">
+				<float>0.26724607</float>
+			</attr>
+			<attr name="y">
+				<float>0.6581187</float>
+			</attr>
+		</node>
+		<node id="300-09-03_75">
+			<attr name="x">
+				<float>0.19386703</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_76">
+			<attr name="x">
+				<float>0.12048799</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_77">
+			<attr name="x">
+				<float>-1.625933</float>
+			</attr>
+			<attr name="y">
+				<float>1.1500937</float>
+			</attr>
+		</node>
+		<node id="300-09-03_78">
+			<attr name="x">
+				<float>-1.5672297</float>
+			</attr>
+			<attr name="y">
+				<float>0.9041062</float>
+			</attr>
+		</node>
+		<node id="300-09-03_79">
+			<attr name="x">
+				<float>-1.479175</float>
+			</attr>
+			<attr name="y">
+				<float>0.986102</float>
+			</attr>
+		</node>
+		<node id="300-09-03_80">
+			<attr name="x">
+				<float>-1.4644991</float>
+			</attr>
+			<attr name="y">
+				<float>0.986102</float>
+			</attr>
+		</node>
+		<node id="300-09-03_81">
+			<attr name="x">
+				<float>-1.0389007</float>
+			</attr>
+			<attr name="y">
+				<float>-0.65381444</float>
+			</attr>
+		</node>
+		<node id="300-09-03_82">
+			<attr name="x">
+				<float>-1.0829282</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_83">
+			<attr name="x">
+				<float>-1.1563072</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0798437</float>
+			</attr>
+		</node>
+		<node id="300-09-03_84">
+			<attr name="x">
+				<float>-1.170983</float>
+			</attr>
+			<attr name="y">
+				<float>0.3301354</float>
+			</attr>
+		</node>
+		<node id="300-09-03_85">
+			<attr name="x">
+				<float>-1.2003347</float>
+			</attr>
+			<attr name="y">
+				<float>0.7401145</float>
+			</attr>
+		</node>
+		<node id="300-09-03_86">
+			<attr name="x">
+				<float>-1.2737137</float>
+			</attr>
+			<attr name="y">
+				<float>1.0680978</float>
+			</attr>
+		</node>
+		<node id="300-09-03_87">
+			<attr name="x">
+				<float>-1.3470927</float>
+			</attr>
+			<attr name="y">
+				<float>1.2320895</float>
+			</attr>
+		</node>
+		<node id="300-09-03_88">
+			<attr name="x">
+				<float>-1.4204718</float>
+			</attr>
+			<attr name="y">
+				<float>1.1500937</float>
+			</attr>
+		</node>
+		<node id="300-09-03_89">
+			<attr name="x">
+				<float>-1.4938507</float>
+			</attr>
+			<attr name="y">
+				<float>0.986102</float>
+			</attr>
+		</node>
+		<node id="300-09-03_90">
+			<attr name="x">
+				<float>-1.4498234</float>
+			</attr>
+			<attr name="y">
+				<float>0.7401145</float>
+			</attr>
+		</node>
+		<node id="300-09-03_91">
+			<attr name="x">
+				<float>-1.3764443</float>
+			</attr>
+			<attr name="y">
+				<float>0.49412706</float>
+			</attr>
+		</node>
+		<node id="300-09-03_92">
+			<attr name="x">
+				<float>-1.3030653</float>
+			</attr>
+			<attr name="y">
+				<float>0.24813959</float>
+			</attr>
+		</node>
+		<node id="300-09-03_93">
+			<attr name="x">
+				<float>-1.2296863</float>
+			</attr>
+			<attr name="y">
+				<float>0.084147945</float>
+			</attr>
+		</node>
+		<node id="300-09-03_94">
+			<attr name="x">
+				<float>-1.1856588</float>
+			</attr>
+			<attr name="y">
+				<float>0.084147945</float>
+			</attr>
+		</node>
+		<node id="300-09-03_95">
+			<attr name="x">
+				<float>-1.4938507</float>
+			</attr>
+			<attr name="y">
+				<float>1.0680978</float>
+			</attr>
+		</node>
+		<node id="300-09-03_96">
+			<attr name="x">
+				<float>-1.5085266</float>
+			</attr>
+			<attr name="y">
+				<float>1.2320895</float>
+			</attr>
+		</node>
+		<node id="300-09-03_97">
+			<attr name="x">
+				<float>-1.2590379</float>
+			</attr>
+			<attr name="y">
+				<float>0.16614377</float>
+			</attr>
+		</node>
+		<node id="300-09-03_98">
+			<attr name="x">
+				<float>-1.3324169</float>
+			</attr>
+			<attr name="y">
+				<float>0.3301354</float>
+			</attr>
+		</node>
+		<node id="300-09-03_99">
+			<attr name="x">
+				<float>-1.4057959</float>
+			</attr>
+			<attr name="y">
+				<float>0.5761229</float>
+			</attr>
+		</node>
+		<node id="300-09-03_100">
+			<attr name="x">
+				<float>-1.4644991</float>
+			</attr>
+			<attr name="y">
+				<float>0.82211035</float>
+			</attr>
+		</node>
+		<node id="300-09-03_101">
+			<attr name="x">
+				<float>1.7788541</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_102">
+			<attr name="x">
+				<float>1.720151</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4898228</float>
+			</attr>
+		</node>
+		<node id="300-09-03_103">
+			<attr name="x">
+				<float>1.6761235</float>
+			</attr>
+			<attr name="y">
+				<float>-0.407827</float>
+			</attr>
+		</node>
+		<node id="300-09-03_104">
+			<attr name="x">
+				<float>1.0597396</float>
+			</attr>
+			<attr name="y">
+				<float>0.3301354</float>
+			</attr>
+		</node>
+		<node id="300-09-03_105">
+			<attr name="x">
+				<float>1.030388</float>
+			</attr>
+			<attr name="y">
+				<float>0.3301354</float>
+			</attr>
+		</node>
+		<edge from="300-09-03_0" to="300-09-03_1"/>
+		<edge from="300-09-03_1" to="300-09-03_2"/>
+		<edge from="300-09-03_3" to="300-09-03_4"/>
+		<edge from="300-09-03_3" to="300-09-03_5"/>
+		<edge from="300-09-03_5" to="300-09-03_6"/>
+		<edge from="300-09-03_6" to="300-09-03_7"/>
+		<edge from="300-09-03_7" to="300-09-03_8"/>
+		<edge from="300-09-03_8" to="300-09-03_9"/>
+		<edge from="300-09-03_10" to="300-09-03_3"/>
+		<edge from="300-09-03_11" to="300-09-03_3"/>
+		<edge from="300-09-03_8" to="300-09-03_12"/>
+		<edge from="300-09-03_12" to="300-09-03_13"/>
+		<edge from="300-09-03_13" to="300-09-03_14"/>
+		<edge from="300-09-03_14" to="300-09-03_15"/>
+		<edge from="300-09-03_15" to="300-09-03_16"/>
+		<edge from="300-09-03_17" to="300-09-03_18"/>
+		<edge from="300-09-03_19" to="300-09-03_17"/>
+		<edge from="300-09-03_20" to="300-09-03_21"/>
+		<edge from="300-09-03_21" to="300-09-03_22"/>
+		<edge from="300-09-03_22" to="300-09-03_23"/>
+		<edge from="300-09-03_23" to="300-09-03_24"/>
+		<edge from="300-09-03_24" to="300-09-03_25"/>
+		<edge from="300-09-03_25" to="300-09-03_26"/>
+		<edge from="300-09-03_26" to="300-09-03_27"/>
+		<edge from="300-09-03_27" to="300-09-03_28"/>
+		<edge from="300-09-03_28" to="300-09-03_29"/>
+		<edge from="300-09-03_29" to="300-09-03_30"/>
+		<edge from="300-09-03_30" to="300-09-03_31"/>
+		<edge from="300-09-03_31" to="300-09-03_32"/>
+		<edge from="300-09-03_24" to="300-09-03_33"/>
+		<edge from="300-09-03_34" to="300-09-03_35"/>
+		<edge from="300-09-03_35" to="300-09-03_31"/>
+		<edge from="300-09-03_36" to="300-09-03_37"/>
+		<edge from="300-09-03_38" to="300-09-03_39"/>
+		<edge from="300-09-03_40" to="300-09-03_41"/>
+		<edge from="300-09-03_41" to="300-09-03_42"/>
+		<edge from="300-09-03_42" to="300-09-03_43"/>
+		<edge from="300-09-03_44" to="300-09-03_39"/>
+		<edge from="300-09-03_39" to="300-09-03_45"/>
+		<edge from="300-09-03_39" to="300-09-03_43"/>
+		<edge from="300-09-03_45" to="300-09-03_43"/>
+		<edge from="300-09-03_46" to="300-09-03_47"/>
+		<edge from="300-09-03_47" to="300-09-03_48"/>
+		<edge from="300-09-03_48" to="300-09-03_49"/>
+		<edge from="300-09-03_49" to="300-09-03_50"/>
+		<edge from="300-09-03_50" to="300-09-03_40"/>
+		<edge from="300-09-03_51" to="300-09-03_52"/>
+		<edge from="300-09-03_52" to="300-09-03_53"/>
+		<edge from="300-09-03_53" to="300-09-03_40"/>
+		<edge from="300-09-03_51" to="300-09-03_54"/>
+		<edge from="300-09-03_54" to="300-09-03_55"/>
+		<edge from="300-09-03_55" to="300-09-03_56"/>
+		<edge from="300-09-03_57" to="300-09-03_58"/>
+		<edge from="300-09-03_58" to="300-09-03_59"/>
+		<edge from="300-09-03_59" to="300-09-03_60"/>
+		<edge from="300-09-03_60" to="300-09-03_61"/>
+		<edge from="300-09-03_61" to="300-09-03_62"/>
+		<edge from="300-09-03_62" to="300-09-03_63"/>
+		<edge from="300-09-03_63" to="300-09-03_64"/>
+		<edge from="300-09-03_64" to="300-09-03_65"/>
+		<edge from="300-09-03_65" to="300-09-03_66"/>
+		<edge from="300-09-03_57" to="300-09-03_67"/>
+		<edge from="300-09-03_67" to="300-09-03_68"/>
+		<edge from="300-09-03_68" to="300-09-03_69"/>
+		<edge from="300-09-03_69" to="300-09-03_70"/>
+		<edge from="300-09-03_57" to="300-09-03_71"/>
+		<edge from="300-09-03_72" to="300-09-03_73"/>
+		<edge from="300-09-03_73" to="300-09-03_74"/>
+		<edge from="300-09-03_74" to="300-09-03_75"/>
+		<edge from="300-09-03_75" to="300-09-03_76"/>
+		<edge from="300-09-03_76" to="300-09-03_64"/>
+		<edge from="300-09-03_77" to="300-09-03_78"/>
+		<edge from="300-09-03_78" to="300-09-03_79"/>
+		<edge from="300-09-03_79" to="300-09-03_80"/>
+		<edge from="300-09-03_81" to="300-09-03_82"/>
+		<edge from="300-09-03_82" to="300-09-03_83"/>
+		<edge from="300-09-03_83" to="300-09-03_84"/>
+		<edge from="300-09-03_84" to="300-09-03_85"/>
+		<edge from="300-09-03_85" to="300-09-03_86"/>
+		<edge from="300-09-03_86" to="300-09-03_87"/>
+		<edge from="300-09-03_87" to="300-09-03_88"/>
+		<edge from="300-09-03_88" to="300-09-03_80"/>
+		<edge from="300-09-03_80" to="300-09-03_89"/>
+		<edge from="300-09-03_89" to="300-09-03_90"/>
+		<edge from="300-09-03_90" to="300-09-03_91"/>
+		<edge from="300-09-03_91" to="300-09-03_92"/>
+		<edge from="300-09-03_92" to="300-09-03_93"/>
+		<edge from="300-09-03_93" to="300-09-03_94"/>
+		<edge from="300-09-03_80" to="300-09-03_95"/>
+		<edge from="300-09-03_95" to="300-09-03_96"/>
+		<edge from="300-09-03_94" to="300-09-03_97"/>
+		<edge from="300-09-03_97" to="300-09-03_98"/>
+		<edge from="300-09-03_98" to="300-09-03_99"/>
+		<edge from="300-09-03_99" to="300-09-03_100"/>
+		<edge from="300-09-03_100" to="300-09-03_95"/>
+		<edge from="300-09-03_101" to="300-09-03_102"/>
+		<edge from="300-09-03_102" to="300-09-03_103"/>
+		<edge from="300-09-03_104" to="300-09-03_105"/>
+	</graph>
+</gxl>

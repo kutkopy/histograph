@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="307-06-08">
+		<attr name="x_std">
+			<float>12.269115</float>
+		</attr>
+		<attr name="y_std">
+			<float>9.519167</float>
+		</attr>
+		<node id="307-06-08_0">
+			<attr name="x">
+				<float>0.7748602</float>
+			</attr>
+			<attr name="y">
+				<float>-2.1542695</float>
+			</attr>
+		</node>
+		<node id="307-06-08_1">
+			<attr name="x">
+				<float>0.5303438</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7340645</float>
+			</attr>
+		</node>
+		<node id="307-06-08_2">
+			<attr name="x">
+				<float>0.20432192</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3138597</float>
+			</attr>
+		</node>
+		<node id="307-06-08_3">
+			<attr name="x">
+				<float>0.04131099</float>
+			</attr>
+			<attr name="y">
+				<float>-0.8936548</float>
+			</attr>
+		</node>
+		<node id="307-06-08_4">
+			<attr name="x">
+				<float>-0.6922382</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26334757</float>
+			</attr>
+		</node>
+		<node id="307-06-08_5">
+			<attr name="x">
+				<float>-0.36621633</float>
+			</attr>
+			<attr name="y">
+				<float>-0.57850116</float>
+			</attr>
+		</node>
+		<node id="307-06-08_6">
+			<attr name="x">
+				<float>0.5303438</float>
+			</attr>
+			<attr name="y">
+				<float>-0.57850116</float>
+			</attr>
+		</node>
+		<node id="307-06-08_7">
+			<attr name="x">
+				<float>0.20432192</float>
+			</attr>
+			<attr name="y">
+				<float>-0.6835524</float>
+			</attr>
+		</node>
+		<node id="307-06-08_8">
+			<attr name="x">
+				<float>-1.0182601</float>
+			</attr>
+			<attr name="y">
+				<float>-0.57850116</float>
+			</attr>
+		</node>
+		<node id="307-06-08_9">
+			<attr name="x">
+				<float>-0.9367546</float>
+			</attr>
+			<attr name="y">
+				<float>0.15685728</float>
+			</attr>
+		</node>
+		<node id="307-06-08_10">
+			<attr name="x">
+				<float>-1.2627765</float>
+			</attr>
+			<attr name="y">
+				<float>0.57706213</float>
+			</attr>
+		</node>
+		<node id="307-06-08_11">
+			<attr name="x">
+				<float>-1.4257874</float>
+			</attr>
+			<attr name="y">
+				<float>0.8922158</float>
+			</attr>
+		</node>
+		<node id="307-06-08_12">
+			<attr name="x">
+				<float>-1.5887983</float>
+			</attr>
+			<attr name="y">
+				<float>1.1023182</float>
+			</attr>
+		</node>
+		<node id="307-06-08_13">
+			<attr name="x">
+				<float>-0.8552491</float>
+			</attr>
+			<attr name="y">
+				<float>1.3124206</float>
+			</attr>
+		</node>
+		<node id="307-06-08_14">
+			<attr name="x">
+				<float>-1.181271</float>
+			</attr>
+			<attr name="y">
+				<float>1.2073694</float>
+			</attr>
+		</node>
+		<node id="307-06-08_15">
+			<attr name="x">
+				<float>0.6933547</float>
+			</attr>
+			<attr name="y">
+				<float>1.3124206</float>
+			</attr>
+		</node>
+		<node id="307-06-08_16">
+			<attr name="x">
+				<float>0.9378711</float>
+			</attr>
+			<attr name="y">
+				<float>0.8922158</float>
+			</attr>
+		</node>
+		<node id="307-06-08_17">
+			<attr name="x">
+				<float>1.3453984</float>
+			</attr>
+			<attr name="y">
+				<float>0.78716457</float>
+			</attr>
+		</node>
+		<node id="307-06-08_18">
+			<attr name="x">
+				<float>1.5084094</float>
+			</attr>
+			<attr name="y">
+				<float>0.8922158</float>
+			</attr>
+		</node>
+		<node id="307-06-08_19">
+			<attr name="x">
+				<float>1.7529258</float>
+			</attr>
+			<attr name="y">
+				<float>0.4720109</float>
+			</attr>
+		</node>
+		<node id="307-06-08_20">
+			<attr name="x">
+				<float>1.8344313</float>
+			</attr>
+			<attr name="y">
+				<float>0.36695972</float>
+			</attr>
+		</node>
+		<node id="307-06-08_21">
+			<attr name="x">
+				<float>1.6714203</float>
+			</attr>
+			<attr name="y">
+				<float>1.1023182</float>
+			</attr>
+		</node>
+		<edge from="307-06-08_0" to="307-06-08_1"/>
+		<edge from="307-06-08_1" to="307-06-08_2"/>
+		<edge from="307-06-08_2" to="307-06-08_3"/>
+		<edge from="307-06-08_4" to="307-06-08_5"/>
+		<edge from="307-06-08_5" to="307-06-08_3"/>
+		<edge from="307-06-08_6" to="307-06-08_7"/>
+		<edge from="307-06-08_7" to="307-06-08_3"/>
+		<edge from="307-06-08_8" to="307-06-08_4"/>
+		<edge from="307-06-08_4" to="307-06-08_9"/>
+		<edge from="307-06-08_9" to="307-06-08_10"/>
+		<edge from="307-06-08_10" to="307-06-08_11"/>
+		<edge from="307-06-08_12" to="307-06-08_11"/>
+		<edge from="307-06-08_13" to="307-06-08_14"/>
+		<edge from="307-06-08_14" to="307-06-08_11"/>
+		<edge from="307-06-08_15" to="307-06-08_16"/>
+		<edge from="307-06-08_16" to="307-06-08_17"/>
+		<edge from="307-06-08_17" to="307-06-08_18"/>
+		<edge from="307-06-08_18" to="307-06-08_19"/>
+		<edge from="307-06-08_19" to="307-06-08_20"/>
+		<edge from="307-06-08_18" to="307-06-08_21"/>
+	</graph>
+</gxl>

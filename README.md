@@ -8,13 +8,13 @@ historgraph is a graph database of four different handwritten historical documen
 
 Please cite the following papers (as well as the corresponding references of the handwritten historical documents, see above):
 
-*[1] M. Stauffer, A. Fischer, K. Riesen, Keyword Spotting in Historical Handwritten Documents based on Graph Matching, Pattern Recognit. (2018).*
+*[1] M. Stauffer, A. Fischer, K. Riesen, [Keyword Spotting in Historical Handwritten Documents based on Graph Matching](https://www.sciencedirect.com/science/article/pii/S0031320318301274), Pattern Recognit. (2018).*
 
 *[2] M. Stauffer, A. Fischer, K. Riesen, [A Novel Graph Database for Handwritten Word Images](https://www.researchgate.net/publication/310508538_A_Novel_Graph_Database_for_Handwritten_Word_Images), in: Int. Work. Struct. Syntactic, Stat. Pattern Recognit., 2016: pp. 553–563.*
 
 # Image Preprocessing
 
-The following image preprocessing steps have been employed for the four different manuscripts. Note that the segmentation of AK and BOT has been done in conjunction of the ICFHR2016 KWS benchmark competition, while the segmentation of GW and PAR has been done by ourself.
+The following image preprocessing steps have been employed for the four different manuscripts. Note that the segmentation of AK and BOT has been done in conjunction of the ICFHR2016 KWS benchmark competition, while the segmentation of GW and PAR has been done by ourself.[]()
 
 ## GW and PAR
 
@@ -67,7 +67,7 @@ For reference Keyword Spottings results of the four different handwritten histor
 
 ##### Baseline
 
-*[1] M. Stauffer, A. Fischer, K. Riesen, Keyword Spotting in Historical Handwritten Documents based on Graph Matching, Pattern Recognit. (2018).*
+*[1] M. Stauffer, A. Fischer, K. Riesen, [Keyword Spotting in Historical Handwritten Documents based on Graph Matching](https://www.sciencedirect.com/science/article/pii/S0031320318301274), Pattern Recognit. (2018).*
 
 ##### Speed up approach by means of quadtree segmentations 
 

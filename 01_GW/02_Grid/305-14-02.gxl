@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="305-14-02">
+		<attr name="x_std">
+			<float>20.76685</float>
+		</attr>
+		<attr name="y_std">
+			<float>4.43002</float>
+		</attr>
+		<node id="305-14-02_0">
+			<attr name="x">
+				<float>-1.1506593</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1543795</float>
+			</attr>
+		</node>
+		<node id="305-14-02_1">
+			<attr name="x">
+				<float>-1.198813</float>
+			</attr>
+			<attr name="y">
+				<float>-0.70291424</float>
+			</attr>
+		</node>
+		<node id="305-14-02_2">
+			<attr name="x">
+				<float>-0.47650796</float>
+			</attr>
+			<attr name="y">
+				<float>-0.251449</float>
+			</attr>
+		</node>
+		<node id="305-14-02_3">
+			<attr name="x">
+				<float>-0.47650796</float>
+			</attr>
+			<attr name="y">
+				<float>0.42574888</float>
+			</attr>
+		</node>
+		<node id="305-14-02_4">
+			<attr name="x">
+				<float>-0.33204696</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4771816</float>
+			</attr>
+		</node>
+		<node id="305-14-02_5">
+			<attr name="x">
+				<float>0.5828727</float>
+			</attr>
+			<attr name="y">
+				<float>1.7801446</float>
+			</attr>
+		</node>
+		<node id="305-14-02_6">
+			<attr name="x">
+				<float>0.6310264</float>
+			</attr>
+			<attr name="y">
+				<float>1.1029468</float>
+			</attr>
+		</node>
+		<node id="305-14-02_7">
+			<attr name="x">
+				<float>-0.33204696</float>
+			</attr>
+			<attr name="y">
+				<float>0.6514815</float>
+			</attr>
+		</node>
+		<node id="305-14-02_8">
+			<attr name="x">
+				<float>-0.2838933</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1543795</float>
+			</attr>
+		</node>
+		<node id="305-14-02_9">
+			<attr name="x">
+				<float>1.112563</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4771816</float>
+			</attr>
+		</node>
+		<node id="305-14-02_10">
+			<attr name="x">
+				<float>0.9199484</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4771816</float>
+			</attr>
+		</node>
+		<node id="305-14-02_11">
+			<attr name="x">
+				<float>0.77548736</float>
+			</attr>
+			<attr name="y">
+				<float>1.7801446</float>
+			</attr>
+		</node>
+		<node id="305-14-02_12">
+			<attr name="x">
+				<float>1.0644094</float>
+			</attr>
+			<attr name="y">
+				<float>0.42574888</float>
+			</attr>
+		</node>
+		<node id="305-14-02_13">
+			<attr name="x">
+				<float>1.112563</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6058447</float>
+			</attr>
+		</node>
+		<node id="305-14-02_14">
+			<attr name="x">
+				<float>0.9199484</float>
+			</attr>
+			<attr name="y">
+				<float>-1.8315774</float>
+			</attr>
+		</node>
+		<node id="305-14-02_15">
+			<attr name="x">
+				<float>0.8717947</float>
+			</attr>
+			<attr name="y">
+				<float>0.87721413</float>
+			</attr>
+		</node>
+		<node id="305-14-02_16">
+			<attr name="x">
+				<float>-1.4395813</float>
+			</attr>
+			<attr name="y">
+				<float>0.6514815</float>
+			</attr>
+		</node>
+		<node id="305-14-02_17">
+			<attr name="x">
+				<float>-1.4395813</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4771816</float>
+			</attr>
+		</node>
+		<node id="305-14-02_18">
+			<attr name="x">
+				<float>-1.198813</float>
+			</attr>
+			<attr name="y">
+				<float>0.87721413</float>
+			</attr>
+		</node>
+		<edge from="305-14-02_0" to="305-14-02_1"/>
+		<edge from="305-14-02_2" to="305-14-02_3"/>
+		<edge from="305-14-02_4" to="305-14-02_2"/>
+		<edge from="305-14-02_5" to="305-14-02_6"/>
+		<edge from="305-14-02_3" to="305-14-02_7"/>
+		<edge from="305-14-02_8" to="305-14-02_4"/>
+		<edge from="305-14-02_9" to="305-14-02_10"/>
+		<edge from="305-14-02_5" to="305-14-02_11"/>
+		<edge from="305-14-02_12" to="305-14-02_9"/>
+		<edge from="305-14-02_13" to="305-14-02_14"/>
+		<edge from="305-14-02_15" to="305-14-02_11"/>
+		<edge from="305-14-02_12" to="305-14-02_15"/>
+		<edge from="305-14-02_16" to="305-14-02_17"/>
+		<edge from="305-14-02_13" to="305-14-02_9"/>
+		<edge from="305-14-02_17" to="305-14-02_1"/>
+		<edge from="305-14-02_16" to="305-14-02_18"/>
+	</graph>
+</gxl>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="303-12-02">
+		<attr name="x_std">
+			<float>11.9433</float>
+		</attr>
+		<attr name="y_std">
+			<float>3.138935</float>
+		</attr>
+		<node id="303-12-02_0">
+			<attr name="x">
+				<float>0.3399903</float>
+			</attr>
+			<attr name="y">
+				<float>-0.487523</float>
+			</attr>
+		</node>
+		<node id="303-12-02_1">
+			<attr name="x">
+				<float>-0.07865447</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1246817</float>
+			</attr>
+		</node>
+		<node id="303-12-02_2">
+			<attr name="x">
+				<float>-0.49729922</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7618405</float>
+			</attr>
+		</node>
+		<node id="303-12-02_3">
+			<attr name="x">
+				<float>-0.915944</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1246817</float>
+			</attr>
+		</node>
+		<node id="303-12-02_4">
+			<attr name="x">
+				<float>-1.2508597</float>
+			</attr>
+			<attr name="y">
+				<float>-0.16894361</float>
+			</attr>
+		</node>
+		<node id="303-12-02_5">
+			<attr name="x">
+				<float>-1.3345888</float>
+			</attr>
+			<attr name="y">
+				<float>-0.487523</float>
+			</attr>
+		</node>
+		<node id="303-12-02_6">
+			<attr name="x">
+				<float>-1.4183177</float>
+			</attr>
+			<attr name="y">
+				<float>0.78679454</float>
+			</attr>
+		</node>
+		<node id="303-12-02_7">
+			<attr name="x">
+				<float>-1.5020466</float>
+			</attr>
+			<attr name="y">
+				<float>1.1053739</float>
+			</attr>
+		</node>
+		<node id="303-12-02_8">
+			<attr name="x">
+				<float>-0.9996729</float>
+			</attr>
+			<attr name="y">
+				<float>0.78679454</float>
+			</attr>
+		</node>
+		<node id="303-12-02_9">
+			<attr name="x">
+				<float>-0.58102816</float>
+			</attr>
+			<attr name="y">
+				<float>0.78679454</float>
+			</attr>
+		</node>
+		<node id="303-12-02_10">
+			<attr name="x">
+				<float>-0.16238342</float>
+			</attr>
+			<attr name="y">
+				<float>-0.487523</float>
+			</attr>
+		</node>
+		<node id="303-12-02_11">
+			<attr name="x">
+				<float>0.75863504</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7618405</float>
+			</attr>
+		</node>
+		<node id="303-12-02_12">
+			<attr name="x">
+				<float>0.5074482</float>
+			</attr>
+			<attr name="y">
+				<float>-0.80610234</float>
+			</attr>
+		</node>
+		<node id="303-12-02_13">
+			<attr name="x">
+				<float>2.0145693</float>
+			</attr>
+			<attr name="y">
+				<float>0.46821514</float>
+			</attr>
+		</node>
+		<node id="303-12-02_14">
+			<attr name="x">
+				<float>1.6796535</float>
+			</attr>
+			<attr name="y">
+				<float>0.78679454</float>
+			</attr>
+		</node>
+		<node id="303-12-02_15">
+			<attr name="x">
+				<float>1.2610087</float>
+			</attr>
+			<attr name="y">
+				<float>1.4239533</float>
+			</attr>
+		</node>
+		<node id="303-12-02_16">
+			<attr name="x">
+				<float>0.84236395</float>
+			</attr>
+			<attr name="y">
+				<float>1.1053739</float>
+			</attr>
+		</node>
+		<node id="303-12-02_17">
+			<attr name="x">
+				<float>0.5074482</float>
+			</attr>
+			<attr name="y">
+				<float>0.14963576</float>
+			</attr>
+		</node>
+		<edge from="303-12-02_0" to="303-12-02_1"/>
+		<edge from="303-12-02_1" to="303-12-02_2"/>
+		<edge from="303-12-02_2" to="303-12-02_3"/>
+		<edge from="303-12-02_3" to="303-12-02_4"/>
+		<edge from="303-12-02_5" to="303-12-02_4"/>
+		<edge from="303-12-02_5" to="303-12-02_6"/>
+		<edge from="303-12-02_6" to="303-12-02_7"/>
+		<edge from="303-12-02_4" to="303-12-02_8"/>
+		<edge from="303-12-02_8" to="303-12-02_9"/>
+		<edge from="303-12-02_9" to="303-12-02_10"/>
+		<edge from="303-12-02_4" to="303-12-02_6"/>
+		<edge from="303-12-02_11" to="303-12-02_12"/>
+		<edge from="303-12-02_12" to="303-12-02_0"/>
+		<edge from="303-12-02_13" to="303-12-02_14"/>
+		<edge from="303-12-02_14" to="303-12-02_15"/>
+		<edge from="303-12-02_15" to="303-12-02_16"/>
+		<edge from="303-12-02_16" to="303-12-02_17"/>
+		<edge from="303-12-02_17" to="303-12-02_0"/>
+	</graph>
+</gxl>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="277-05-10">
+		<attr name="x_std">
+			<float>12.5169525</float>
+		</attr>
+		<attr name="y_std">
+			<float>4.836907</float>
+		</attr>
+		<node id="277-05-10_0">
+			<attr name="x">
+				<float>-1.8026079</float>
+			</attr>
+			<attr name="y">
+				<float>-0.1011956</float>
+			</attr>
+		</node>
+		<node id="277-05-10_1">
+			<attr name="x">
+				<float>-1.9623913</float>
+			</attr>
+			<attr name="y">
+				<float>0.3122918</float>
+			</attr>
+		</node>
+		<node id="277-05-10_2">
+			<attr name="x">
+				<float>-1.1634747</float>
+			</attr>
+			<attr name="y">
+				<float>-0.9281704</float>
+			</attr>
+		</node>
+		<node id="277-05-10_3">
+			<attr name="x">
+				<float>-1.2433664</float>
+			</attr>
+			<attr name="y">
+				<float>-0.7214267</float>
+			</attr>
+		</node>
+		<node id="277-05-10_4">
+			<attr name="x">
+				<float>-0.60423315</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5484015</float>
+			</attr>
+		</node>
+		<node id="277-05-10_5">
+			<attr name="x">
+				<float>-0.60423315</float>
+			</attr>
+			<attr name="y">
+				<float>0.1055481</float>
+			</attr>
+		</node>
+		<node id="277-05-10_6">
+			<attr name="x">
+				<float>-1.6428246</float>
+			</attr>
+			<attr name="y">
+				<float>-0.1011956</float>
+			</attr>
+		</node>
+		<node id="277-05-10_7">
+			<attr name="x">
+				<float>-1.8026079</float>
+			</attr>
+			<attr name="y">
+				<float>0.9325229</float>
+			</attr>
+		</node>
+		<node id="277-05-10_8">
+			<attr name="x">
+				<float>-1.562933</float>
+			</attr>
+			<attr name="y">
+				<float>0.9325229</float>
+			</attr>
+		</node>
+		<node id="277-05-10_9">
+			<attr name="x">
+				<float>-1.2433664</float>
+			</attr>
+			<attr name="y">
+				<float>0.9325229</float>
+			</attr>
+		</node>
+		<node id="277-05-10_10">
+			<attr name="x">
+				<float>-0.92379975</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3416578</float>
+			</attr>
+		</node>
+		<node id="277-05-10_11">
+			<attr name="x">
+				<float>-0.84390813</float>
+			</attr>
+			<attr name="y">
+				<float>0.5190355</float>
+			</attr>
+		</node>
+		<node id="277-05-10_12">
+			<attr name="x">
+				<float>-0.28466657</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9618889</float>
+			</attr>
+		</node>
+		<node id="277-05-10_13">
+			<attr name="x">
+				<float>-0.044991612</float>
+			</attr>
+			<attr name="y">
+				<float>-2.3753762</float>
+			</attr>
+		</node>
+		<node id="277-05-10_14">
+			<attr name="x">
+				<float>0.5941416</float>
+			</attr>
+			<attr name="y">
+				<float>0.3122918</float>
+			</attr>
+		</node>
+		<node id="277-05-10_15">
+			<attr name="x">
+				<float>0.9137082</float>
+			</attr>
+			<attr name="y">
+				<float>-0.514683</float>
+			</attr>
+		</node>
+		<node id="277-05-10_16">
+			<attr name="x">
+				<float>0.9137082</float>
+			</attr>
+			<attr name="y">
+				<float>0.9325229</float>
+			</attr>
+		</node>
+		<node id="277-05-10_17">
+			<attr name="x">
+				<float>1.2332748</float>
+			</attr>
+			<attr name="y">
+				<float>0.1055481</float>
+			</attr>
+		</node>
+		<node id="277-05-10_18">
+			<attr name="x">
+				<float>1.4729497</float>
+			</attr>
+			<attr name="y">
+				<float>-0.1011956</float>
+			</attr>
+		</node>
+		<edge from="277-05-10_0" to="277-05-10_1"/>
+		<edge from="277-05-10_2" to="277-05-10_3"/>
+		<edge from="277-05-10_4" to="277-05-10_5"/>
+		<edge from="277-05-10_0" to="277-05-10_6"/>
+		<edge from="277-05-10_7" to="277-05-10_8"/>
+		<edge from="277-05-10_8" to="277-05-10_9"/>
+		<edge from="277-05-10_2" to="277-05-10_10"/>
+		<edge from="277-05-10_10" to="277-05-10_4"/>
+		<edge from="277-05-10_11" to="277-05-10_5"/>
+		<edge from="277-05-10_4" to="277-05-10_12"/>
+		<edge from="277-05-10_12" to="277-05-10_13"/>
+		<edge from="277-05-10_14" to="277-05-10_15"/>
+		<edge from="277-05-10_14" to="277-05-10_16"/>
+		<edge from="277-05-10_15" to="277-05-10_17"/>
+		<edge from="277-05-10_16" to="277-05-10_17"/>
+		<edge from="277-05-10_17" to="277-05-10_18"/>
+		<edge from="277-05-10_9" to="277-05-10_11"/>
+	</graph>
+</gxl>

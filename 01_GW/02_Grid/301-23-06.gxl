@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="301-23-06">
+		<attr name="x_std">
+			<float>12.5398</float>
+		</attr>
+		<attr name="y_std">
+			<float>11.28823</float>
+		</attr>
+		<node id="301-23-06_0">
+			<attr name="x">
+				<float>0.29586953</float>
+			</attr>
+			<attr name="y">
+				<float>0.88908815</float>
+			</attr>
+		</node>
+		<node id="301-23-06_1">
+			<attr name="x">
+				<float>0.21612346</float>
+			</attr>
+			<attr name="y">
+				<float>1.0662639</float>
+			</attr>
+		</node>
+		<node id="301-23-06_2">
+			<attr name="x">
+				<float>-0.9003218</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3511417</float>
+			</attr>
+		</node>
+		<node id="301-23-06_3">
+			<attr name="x">
+				<float>-1.059814</float>
+			</attr>
+			<attr name="y">
+				<float>-0.17396599</float>
+			</attr>
+		</node>
+		<node id="301-23-06_4">
+			<attr name="x">
+				<float>-1.5382905</float>
+			</attr>
+			<attr name="y">
+				<float>0.26897326</float>
+			</attr>
+		</node>
+		<node id="301-23-06_5">
+			<attr name="x">
+				<float>-1.2990522</float>
+			</attr>
+			<attr name="y">
+				<float>0.09179755</float>
+			</attr>
+		</node>
+		<node id="301-23-06_6">
+			<attr name="x">
+				<float>1.0135844</float>
+			</attr>
+			<attr name="y">
+				<float>0.5347368</float>
+			</attr>
+		</node>
+		<node id="301-23-06_7">
+			<attr name="x">
+				<float>1.0135844</float>
+			</attr>
+			<attr name="y">
+				<float>0.1803854</float>
+			</attr>
+		</node>
+		<node id="301-23-06_8">
+			<attr name="x">
+				<float>0.5351078</float>
+			</attr>
+			<attr name="y">
+				<float>1.0662639</float>
+			</attr>
+		</node>
+		<node id="301-23-06_9">
+			<attr name="x">
+				<float>0.6946</float>
+			</attr>
+			<attr name="y">
+				<float>0.1803854</float>
+			</attr>
+		</node>
+		<node id="301-23-06_10">
+			<attr name="x">
+				<float>0.77434605</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26255384</float>
+			</attr>
+		</node>
+		<node id="301-23-06_11">
+			<attr name="x">
+				<float>1.0933304</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3511417</float>
+			</attr>
+		</node>
+		<node id="301-23-06_12">
+			<attr name="x">
+				<float>0.6946</float>
+			</attr>
+			<attr name="y">
+				<float>-2.47725</float>
+			</attr>
+		</node>
+		<node id="301-23-06_13">
+			<attr name="x">
+				<float>0.6148539</float>
+			</attr>
+			<attr name="y">
+				<float>-2.1228986</float>
+			</attr>
+		</node>
+		<node id="301-23-06_14">
+			<attr name="x">
+				<float>0.6946</float>
+			</attr>
+			<attr name="y">
+				<float>0.7119125</float>
+			</attr>
+		</node>
+		<node id="301-23-06_15">
+			<attr name="x">
+				<float>0.37561563</float>
+			</attr>
+			<attr name="y">
+				<float>-2.3000743</float>
+			</attr>
+		</node>
+		<node id="301-23-06_16">
+			<attr name="x">
+				<float>0.29586953</float>
+			</attr>
+			<attr name="y">
+				<float>0.1803854</float>
+			</attr>
+		</node>
+		<node id="301-23-06_17">
+			<attr name="x">
+				<float>-1.6977826</float>
+			</attr>
+			<attr name="y">
+				<float>0.7119125</float>
+			</attr>
+		</node>
+		<node id="301-23-06_18">
+			<attr name="x">
+				<float>-1.2990522</float>
+			</attr>
+			<attr name="y">
+				<float>0.80050033</float>
+			</attr>
+		</node>
+		<node id="301-23-06_19">
+			<attr name="x">
+				<float>-0.82057565</float>
+			</attr>
+			<attr name="y">
+				<float>0.7119125</float>
+			</attr>
+		</node>
+		<edge from="301-23-06_0" to="301-23-06_1"/>
+		<edge from="301-23-06_2" to="301-23-06_3"/>
+		<edge from="301-23-06_4" to="301-23-06_5"/>
+		<edge from="301-23-06_6" to="301-23-06_7"/>
+		<edge from="301-23-06_8" to="301-23-06_1"/>
+		<edge from="301-23-06_9" to="301-23-06_7"/>
+		<edge from="301-23-06_10" to="301-23-06_11"/>
+		<edge from="301-23-06_12" to="301-23-06_13"/>
+		<edge from="301-23-06_3" to="301-23-06_5"/>
+		<edge from="301-23-06_14" to="301-23-06_6"/>
+		<edge from="301-23-06_14" to="301-23-06_8"/>
+		<edge from="301-23-06_15" to="301-23-06_12"/>
+		<edge from="301-23-06_16" to="301-23-06_9"/>
+		<edge from="301-23-06_10" to="301-23-06_9"/>
+		<edge from="301-23-06_17" to="301-23-06_18"/>
+		<edge from="301-23-06_4" to="301-23-06_17"/>
+		<edge from="301-23-06_18" to="301-23-06_19"/>
+	</graph>
+</gxl>
