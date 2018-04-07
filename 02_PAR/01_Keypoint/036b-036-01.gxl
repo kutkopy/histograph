@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="036b-036-01">
+		<attr name="x_std">
+			<float>3.848568</float>
+		</attr>
+		<attr name="y_std">
+			<float>10.165247</float>
+		</attr>
+		<node id="036b-036-01_0">
+			<attr name="x">
+				<float>1.6356946</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7675138</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_1">
+			<attr name="x">
+				<float>1.1160208</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7675138</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_2">
+			<attr name="x">
+				<float>0.3365101</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5707649</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_3">
+			<attr name="x">
+				<float>-0.18316372</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5707649</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_4">
+			<attr name="x">
+				<float>-0.96267444</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2756418</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_5">
+			<attr name="x">
+				<float>-0.7028375</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4723905</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_6">
+			<attr name="x">
+				<float>-0.96267444</float>
+			</attr>
+			<attr name="y">
+				<float>0.69184613</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_7">
+			<attr name="x">
+				<float>-0.18316372</float>
+			</attr>
+			<attr name="y">
+				<float>0.59347177</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_8">
+			<attr name="x">
+				<float>0.596347</float>
+			</attr>
+			<attr name="y">
+				<float>0.29834858</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_9">
+			<attr name="x">
+				<float>0.8561839</float>
+			</attr>
+			<attr name="y">
+				<float>0.00322539</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_10">
+			<attr name="x">
+				<float>1.1160208</float>
+			</attr>
+			<attr name="y">
+				<float>-0.095149</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_11">
+			<attr name="x">
+				<float>2.4152052</float>
+			</attr>
+			<attr name="y">
+				<float>-0.1935234</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_12">
+			<attr name="x">
+				<float>1.8955315</float>
+			</attr>
+			<attr name="y">
+				<float>-0.095149</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_13">
+			<attr name="x">
+				<float>-0.96267444</float>
+			</attr>
+			<attr name="y">
+				<float>0.98696935</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_14">
+			<attr name="x">
+				<float>-0.4430006</float>
+			</attr>
+			<attr name="y">
+				<float>1.3804669</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_15">
+			<attr name="x">
+				<float>-0.96267444</float>
+			</attr>
+			<attr name="y">
+				<float>1.4788413</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_16">
+			<attr name="x">
+				<float>1.1160208</float>
+			</attr>
+			<attr name="y">
+				<float>1.1837181</float>
+			</attr>
+		</node>
+		<node id="036b-036-01_17">
+			<attr name="x">
+				<float>0.596347</float>
+			</attr>
+			<attr name="y">
+				<float>1.2820926</float>
+			</attr>
+		</node>
+		<edge from="036b-036-01_0" to="036b-036-01_1"/>
+		<edge from="036b-036-01_1" to="036b-036-01_2"/>
+		<edge from="036b-036-01_2" to="036b-036-01_3"/>
+		<edge from="036b-036-01_4" to="036b-036-01_5"/>
+		<edge from="036b-036-01_5" to="036b-036-01_3"/>
+		<edge from="036b-036-01_6" to="036b-036-01_7"/>
+		<edge from="036b-036-01_7" to="036b-036-01_8"/>
+		<edge from="036b-036-01_8" to="036b-036-01_9"/>
+		<edge from="036b-036-01_9" to="036b-036-01_10"/>
+		<edge from="036b-036-01_11" to="036b-036-01_12"/>
+		<edge from="036b-036-01_12" to="036b-036-01_10"/>
+		<edge from="036b-036-01_6" to="036b-036-01_13"/>
+		<edge from="036b-036-01_13" to="036b-036-01_14"/>
+		<edge from="036b-036-01_14" to="036b-036-01_15"/>
+		<edge from="036b-036-01_16" to="036b-036-01_17"/>
+		<edge from="036b-036-01_17" to="036b-036-01_14"/>
+	</graph>
+</gxl>

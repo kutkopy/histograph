@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="043a-012-05">
+		<attr name="x_std">
+			<float>28.319988</float>
+		</attr>
+		<attr name="y_std">
+			<float>7.9292345</float>
+		</attr>
+		<node id="043a-012-05_0">
+			<attr name="x">
+				<float>-0.1918375</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5242103</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_1">
+			<attr name="x">
+				<float>-0.22714826</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6503259</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_2">
+			<attr name="x">
+				<float>-0.3330805</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9025571</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_3">
+			<attr name="x">
+				<float>-0.43901277</float>
+			</attr>
+			<attr name="y">
+				<float>-2.1547883</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_4">
+			<attr name="x">
+				<float>-0.50963426</float>
+			</attr>
+			<attr name="y">
+				<float>-2.4070194</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_5">
+			<attr name="x">
+				<float>-0.544945</float>
+			</attr>
+			<attr name="y">
+				<float>-2.533135</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_6">
+			<attr name="x">
+				<float>-0.12121601</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9025571</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_7">
+			<attr name="x">
+				<float>-0.08590526</float>
+			</attr>
+			<attr name="y">
+				<float>-2.2809038</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_8">
+			<attr name="x">
+				<float>-0.08590526</float>
+			</attr>
+			<attr name="y">
+				<float>-2.6592505</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_9">
+			<attr name="x">
+				<float>-0.08590526</float>
+			</attr>
+			<attr name="y">
+				<float>-2.785366</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_10">
+			<attr name="x">
+				<float>-0.15652676</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2719792</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_11">
+			<attr name="x">
+				<float>-1.109917</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5242103</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_12">
+			<attr name="x">
+				<float>-1.1805385</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7764415</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_13">
+			<attr name="x">
+				<float>-1.2864708</float>
+			</attr>
+			<attr name="y">
+				<float>-2.0286727</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_14">
+			<attr name="x">
+				<float>-1.4277138</float>
+			</attr>
+			<attr name="y">
+				<float>1.5025636</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_15">
+			<attr name="x">
+				<float>-1.4983352</float>
+			</attr>
+			<attr name="y">
+				<float>1.1242169</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_16">
+			<attr name="x">
+				<float>-1.4983352</float>
+			</attr>
+			<attr name="y">
+				<float>0.7458701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_17">
+			<attr name="x">
+				<float>-1.4630245</float>
+			</attr>
+			<attr name="y">
+				<float>0.3675234</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_18">
+			<attr name="x">
+				<float>-1.4630245</float>
+			</attr>
+			<attr name="y">
+				<float>-0.010823352</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_19">
+			<attr name="x">
+				<float>-1.4277138</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_20">
+			<attr name="x">
+				<float>-1.4983352</float>
+			</attr>
+			<attr name="y">
+				<float>1.6286792</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_21">
+			<attr name="x">
+				<float>-1.4983352</float>
+			</attr>
+			<attr name="y">
+				<float>-0.64140123</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_22">
+			<attr name="x">
+				<float>-1.4983352</float>
+			</attr>
+			<attr name="y">
+				<float>-1.019748</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_23">
+			<attr name="x">
+				<float>-1.4630245</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3980948</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_24">
+			<attr name="x">
+				<float>-1.4277138</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5242103</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_25">
+			<attr name="x">
+				<float>-1.3217815</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_26">
+			<attr name="x">
+				<float>-1.2158493</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_27">
+			<attr name="x">
+				<float>-1.109917</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_28">
+			<attr name="x">
+				<float>-1.0039848</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_29">
+			<attr name="x">
+				<float>-0.968674</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_30">
+			<attr name="x">
+				<float>-0.7921203</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_31">
+			<attr name="x">
+				<float>-0.8980525</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_32">
+			<attr name="x">
+				<float>-0.86274177</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_33">
+			<attr name="x">
+				<float>-0.86274177</float>
+			</attr>
+			<attr name="y">
+				<float>-0.76751685</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_34">
+			<attr name="x">
+				<float>-0.93336326</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_35">
+			<attr name="x">
+				<float>-0.968674</float>
+			</attr>
+			<attr name="y">
+				<float>1.5025636</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_36">
+			<attr name="x">
+				<float>-1.0039848</float>
+			</attr>
+			<attr name="y">
+				<float>0.9981013</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_37">
+			<attr name="x">
+				<float>-1.0039848</float>
+			</attr>
+			<attr name="y">
+				<float>0.61975455</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_38">
+			<attr name="x">
+				<float>-1.0039848</float>
+			</attr>
+			<attr name="y">
+				<float>0.24140781</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_39">
+			<attr name="x">
+				<float>-0.968674</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_40">
+			<attr name="x">
+				<float>-0.827431</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_41">
+			<attr name="x">
+				<float>-0.686188</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_42">
+			<attr name="x">
+				<float>-0.58025575</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_43">
+			<attr name="x">
+				<float>-0.4743235</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_44">
+			<attr name="x">
+				<float>-0.40370202</float>
+			</attr>
+			<attr name="y">
+				<float>-0.010823352</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_45">
+			<attr name="x">
+				<float>-0.36839125</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_46">
+			<attr name="x">
+				<float>-0.262459</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_47">
+			<attr name="x">
+				<float>-0.15652676</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_48">
+			<attr name="x">
+				<float>-0.05059451</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_49">
+			<attr name="x">
+				<float>0.055337742</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_50">
+			<attr name="x">
+				<float>0.020026993</float>
+			</attr>
+			<attr name="y">
+				<float>-0.010823352</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_51">
+			<attr name="x">
+				<float>-0.015283758</float>
+			</attr>
+			<attr name="y">
+				<float>0.3675234</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_52">
+			<attr name="x">
+				<float>-0.05059451</float>
+			</attr>
+			<attr name="y">
+				<float>0.7458701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_53">
+			<attr name="x">
+				<float>-0.08590526</float>
+			</attr>
+			<attr name="y">
+				<float>1.1242169</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_54">
+			<attr name="x">
+				<float>-0.1918375</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_55">
+			<attr name="x">
+				<float>-0.3330805</float>
+			</attr>
+			<attr name="y">
+				<float>1.1242169</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_56">
+			<attr name="x">
+				<float>0.47906673</float>
+			</attr>
+			<attr name="y">
+				<float>0.87198573</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_57">
+			<attr name="x">
+				<float>0.58499897</float>
+			</attr>
+			<attr name="y">
+				<float>0.7458701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_58">
+			<attr name="x">
+				<float>0.69093126</float>
+			</attr>
+			<attr name="y">
+				<float>0.3675234</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_59">
+			<attr name="x">
+				<float>0.726242</float>
+			</attr>
+			<attr name="y">
+				<float>0.3675234</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_60">
+			<attr name="x">
+				<float>0.58499897</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_61">
+			<attr name="x">
+				<float>0.6556205</float>
+			</attr>
+			<attr name="y">
+				<float>-0.3891701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_62">
+			<attr name="x">
+				<float>0.726242</float>
+			</attr>
+			<attr name="y">
+				<float>-0.010823352</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_63">
+			<attr name="x">
+				<float>0.90279573</float>
+			</attr>
+			<attr name="y">
+				<float>0.87198573</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_64">
+			<attr name="x">
+				<float>1.008728</float>
+			</attr>
+			<attr name="y">
+				<float>0.61975455</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_65">
+			<attr name="x">
+				<float>1.0793495</float>
+			</attr>
+			<attr name="y">
+				<float>0.24140781</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_66">
+			<attr name="x">
+				<float>1.0793495</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_67">
+			<attr name="x">
+				<float>1.0440388</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_68">
+			<attr name="x">
+				<float>0.9381065</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_69">
+			<attr name="x">
+				<float>0.3731345</float>
+			</attr>
+			<attr name="y">
+				<float>0.61975455</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_70">
+			<attr name="x">
+				<float>0.33782375</float>
+			</attr>
+			<attr name="y">
+				<float>0.24140781</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_71">
+			<attr name="x">
+				<float>0.26720226</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_72">
+			<attr name="x">
+				<float>0.16127</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_73">
+			<attr name="x">
+				<float>0.44375598</float>
+			</attr>
+			<attr name="y">
+				<float>1.1242169</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_74">
+			<attr name="x">
+				<float>0.40844524</float>
+			</attr>
+			<attr name="y">
+				<float>1.5025636</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_75">
+			<attr name="x">
+				<float>0.40844524</float>
+			</attr>
+			<attr name="y">
+				<float>1.7547948</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_76">
+			<attr name="x">
+				<float>-0.36839125</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_77">
+			<attr name="x">
+				<float>-0.36839125</float>
+			</attr>
+			<attr name="y">
+				<float>0.87198573</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_78">
+			<attr name="x">
+				<float>-0.40370202</float>
+			</attr>
+			<attr name="y">
+				<float>0.49363896</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_79">
+			<attr name="x">
+				<float>0.90279573</float>
+			</attr>
+			<attr name="y">
+				<float>1.5025636</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_80">
+			<attr name="x">
+				<float>0.83217424</float>
+			</attr>
+			<attr name="y">
+				<float>1.6286792</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_81">
+			<attr name="x">
+				<float>0.867485</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_82">
+			<attr name="x">
+				<float>0.83217424</float>
+			</attr>
+			<attr name="y">
+				<float>0.7458701</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_83">
+			<attr name="x">
+				<float>-0.827431</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_84">
+			<attr name="x">
+				<float>-1.3570923</float>
+			</attr>
+			<attr name="y">
+				<float>1.5025636</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_85">
+			<attr name="x">
+				<float>1.3618355</float>
+			</attr>
+			<attr name="y">
+				<float>0.11529223</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_86">
+			<attr name="x">
+				<float>1.4677677</float>
+			</attr>
+			<attr name="y">
+				<float>0.11529223</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_87">
+			<attr name="x">
+				<float>1.5383892</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13693893</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_88">
+			<attr name="x">
+				<float>1.5737</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_89">
+			<attr name="x">
+				<float>1.6796323</float>
+			</attr>
+			<attr name="y">
+				<float>1.1242169</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_90">
+			<attr name="x">
+				<float>1.6090107</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_91">
+			<attr name="x">
+				<float>1.5030785</float>
+			</attr>
+			<attr name="y">
+				<float>1.376448</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_92">
+			<attr name="x">
+				<float>1.3971462</float>
+			</attr>
+			<attr name="y">
+				<float>1.2503325</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_93">
+			<attr name="x">
+				<float>1.3265247</float>
+			</attr>
+			<attr name="y">
+				<float>0.87198573</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_94">
+			<attr name="x">
+				<float>1.291214</float>
+			</attr>
+			<attr name="y">
+				<float>0.49363896</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_95">
+			<attr name="x">
+				<float>1.3265247</float>
+			</attr>
+			<attr name="y">
+				<float>0.11529223</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_96">
+			<attr name="x">
+				<float>1.3265247</float>
+			</attr>
+			<attr name="y">
+				<float>-0.26305452</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_97">
+			<attr name="x">
+				<float>1.3971462</float>
+			</attr>
+			<attr name="y">
+				<float>-0.64140123</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_98">
+			<attr name="x">
+				<float>1.5030785</float>
+			</attr>
+			<attr name="y">
+				<float>-0.64140123</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_99">
+			<attr name="x">
+				<float>1.8914968</float>
+			</attr>
+			<attr name="y">
+				<float>-0.64140123</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_100">
+			<attr name="x">
+				<float>1.8208753</float>
+			</attr>
+			<attr name="y">
+				<float>-0.64140123</float>
+			</attr>
+		</node>
+		<node id="043a-012-05_101">
+			<attr name="x">
+				<float>1.714943</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5152857</float>
+			</attr>
+		</node>
+		<edge from="043a-012-05_0" to="043a-012-05_1"/>
+		<edge from="043a-012-05_1" to="043a-012-05_2"/>
+		<edge from="043a-012-05_2" to="043a-012-05_3"/>
+		<edge from="043a-012-05_3" to="043a-012-05_4"/>
+		<edge from="043a-012-05_4" to="043a-012-05_5"/>
+		<edge from="043a-012-05_0" to="043a-012-05_6"/>
+		<edge from="043a-012-05_6" to="043a-012-05_7"/>
+		<edge from="043a-012-05_7" to="043a-012-05_8"/>
+		<edge from="043a-012-05_8" to="043a-012-05_9"/>
+		<edge from="043a-012-05_0" to="043a-012-05_10"/>
+		<edge from="043a-012-05_11" to="043a-012-05_12"/>
+		<edge from="043a-012-05_12" to="043a-012-05_13"/>
+		<edge from="043a-012-05_14" to="043a-012-05_15"/>
+		<edge from="043a-012-05_15" to="043a-012-05_16"/>
+		<edge from="043a-012-05_16" to="043a-012-05_17"/>
+		<edge from="043a-012-05_17" to="043a-012-05_18"/>
+		<edge from="043a-012-05_18" to="043a-012-05_19"/>
+		<edge from="043a-012-05_14" to="043a-012-05_20"/>
+		<edge from="043a-012-05_19" to="043a-012-05_21"/>
+		<edge from="043a-012-05_21" to="043a-012-05_22"/>
+		<edge from="043a-012-05_22" to="043a-012-05_23"/>
+		<edge from="043a-012-05_23" to="043a-012-05_24"/>
+		<edge from="043a-012-05_19" to="043a-012-05_25"/>
+		<edge from="043a-012-05_25" to="043a-012-05_26"/>
+		<edge from="043a-012-05_26" to="043a-012-05_27"/>
+		<edge from="043a-012-05_27" to="043a-012-05_28"/>
+		<edge from="043a-012-05_28" to="043a-012-05_29"/>
+		<edge from="043a-012-05_30" to="043a-012-05_31"/>
+		<edge from="043a-012-05_30" to="043a-012-05_32"/>
+		<edge from="043a-012-05_31" to="043a-012-05_32"/>
+		<edge from="043a-012-05_31" to="043a-012-05_29"/>
+		<edge from="043a-012-05_31" to="043a-012-05_33"/>
+		<edge from="043a-012-05_34" to="043a-012-05_35"/>
+		<edge from="043a-012-05_34" to="043a-012-05_36"/>
+		<edge from="043a-012-05_36" to="043a-012-05_37"/>
+		<edge from="043a-012-05_37" to="043a-012-05_38"/>
+		<edge from="043a-012-05_38" to="043a-012-05_39"/>
+		<edge from="043a-012-05_39" to="043a-012-05_29"/>
+		<edge from="043a-012-05_40" to="043a-012-05_32"/>
+		<edge from="043a-012-05_30" to="043a-012-05_41"/>
+		<edge from="043a-012-05_41" to="043a-012-05_42"/>
+		<edge from="043a-012-05_42" to="043a-012-05_43"/>
+		<edge from="043a-012-05_43" to="043a-012-05_44"/>
+		<edge from="043a-012-05_44" to="043a-012-05_45"/>
+		<edge from="043a-012-05_45" to="043a-012-05_46"/>
+		<edge from="043a-012-05_46" to="043a-012-05_47"/>
+		<edge from="043a-012-05_47" to="043a-012-05_48"/>
+		<edge from="043a-012-05_48" to="043a-012-05_49"/>
+		<edge from="043a-012-05_49" to="043a-012-05_50"/>
+		<edge from="043a-012-05_50" to="043a-012-05_51"/>
+		<edge from="043a-012-05_51" to="043a-012-05_52"/>
+		<edge from="043a-012-05_52" to="043a-012-05_53"/>
+		<edge from="043a-012-05_53" to="043a-012-05_54"/>
+		<edge from="043a-012-05_54" to="043a-012-05_55"/>
+		<edge from="043a-012-05_56" to="043a-012-05_57"/>
+		<edge from="043a-012-05_57" to="043a-012-05_58"/>
+		<edge from="043a-012-05_58" to="043a-012-05_59"/>
+		<edge from="043a-012-05_60" to="043a-012-05_61"/>
+		<edge from="043a-012-05_61" to="043a-012-05_62"/>
+		<edge from="043a-012-05_62" to="043a-012-05_59"/>
+		<edge from="043a-012-05_63" to="043a-012-05_64"/>
+		<edge from="043a-012-05_64" to="043a-012-05_65"/>
+		<edge from="043a-012-05_65" to="043a-012-05_66"/>
+		<edge from="043a-012-05_66" to="043a-012-05_67"/>
+		<edge from="043a-012-05_67" to="043a-012-05_68"/>
+		<edge from="043a-012-05_56" to="043a-012-05_69"/>
+		<edge from="043a-012-05_69" to="043a-012-05_70"/>
+		<edge from="043a-012-05_70" to="043a-012-05_71"/>
+		<edge from="043a-012-05_71" to="043a-012-05_72"/>
+		<edge from="043a-012-05_72" to="043a-012-05_49"/>
+		<edge from="043a-012-05_56" to="043a-012-05_73"/>
+		<edge from="043a-012-05_73" to="043a-012-05_74"/>
+		<edge from="043a-012-05_74" to="043a-012-05_75"/>
+		<edge from="043a-012-05_55" to="043a-012-05_76"/>
+		<edge from="043a-012-05_55" to="043a-012-05_77"/>
+		<edge from="043a-012-05_77" to="043a-012-05_78"/>
+		<edge from="043a-012-05_78" to="043a-012-05_44"/>
+		<edge from="043a-012-05_79" to="043a-012-05_80"/>
+		<edge from="043a-012-05_79" to="043a-012-05_81"/>
+		<edge from="043a-012-05_81" to="043a-012-05_63"/>
+		<edge from="043a-012-05_59" to="043a-012-05_82"/>
+		<edge from="043a-012-05_82" to="043a-012-05_63"/>
+		<edge from="043a-012-05_34" to="043a-012-05_83"/>
+		<edge from="043a-012-05_14" to="043a-012-05_84"/>
+		<edge from="043a-012-05_85" to="043a-012-05_86"/>
+		<edge from="043a-012-05_86" to="043a-012-05_87"/>
+		<edge from="043a-012-05_87" to="043a-012-05_88"/>
+		<edge from="043a-012-05_89" to="043a-012-05_90"/>
+		<edge from="043a-012-05_90" to="043a-012-05_91"/>
+		<edge from="043a-012-05_91" to="043a-012-05_92"/>
+		<edge from="043a-012-05_92" to="043a-012-05_93"/>
+		<edge from="043a-012-05_93" to="043a-012-05_94"/>
+		<edge from="043a-012-05_94" to="043a-012-05_95"/>
+		<edge from="043a-012-05_95" to="043a-012-05_96"/>
+		<edge from="043a-012-05_96" to="043a-012-05_97"/>
+		<edge from="043a-012-05_97" to="043a-012-05_98"/>
+		<edge from="043a-012-05_98" to="043a-012-05_88"/>
+		<edge from="043a-012-05_99" to="043a-012-05_100"/>
+		<edge from="043a-012-05_100" to="043a-012-05_101"/>
+		<edge from="043a-012-05_101" to="043a-012-05_88"/>
+	</graph>
+</gxl>

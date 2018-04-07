@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="126a-027-01">
+		<attr name="x_std">
+			<float>2.4795659</float>
+		</attr>
+		<attr name="y_std">
+			<float>5.7724814</float>
+		</attr>
+		<node id="126a-027-01_0">
+			<attr name="x">
+				<float>-0.25507638</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3311018</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_1">
+			<attr name="x">
+				<float>-0.25507638</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4649232</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_2">
+			<attr name="x">
+				<float>-0.25507638</float>
+			</attr>
+			<attr name="y">
+				<float>0.40125537</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_3">
+			<attr name="x">
+				<float>-0.25507638</float>
+			</attr>
+			<attr name="y">
+				<float>1.0941982</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_4">
+			<attr name="x">
+				<float>-1.4649656</float>
+			</attr>
+			<attr name="y">
+				<float>-0.98463035</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_5">
+			<attr name="x">
+				<float>-1.0616692</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1578661</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_6">
+			<attr name="x">
+				<float>-1.4649656</float>
+			</attr>
+			<attr name="y">
+				<float>1.4406697</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_7">
+			<attr name="x">
+				<float>-0.6583728</float>
+			</attr>
+			<attr name="y">
+				<float>1.267434</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_8">
+			<attr name="x">
+				<float>0.5515165</float>
+			</attr>
+			<attr name="y">
+				<float>0.9209625</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_9">
+			<attr name="x">
+				<float>1.7614057</float>
+			</attr>
+			<attr name="y">
+				<float>0.9209625</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_10">
+			<attr name="x">
+				<float>2.5679986</float>
+			</attr>
+			<attr name="y">
+				<float>0.7477268</float>
+			</attr>
+		</node>
+		<node id="126a-027-01_11">
+			<attr name="x">
+				<float>0.5515165</float>
+			</attr>
+			<attr name="y">
+				<float>-1.850809</float>
+			</attr>
+		</node>
+		<edge from="126a-027-01_0" to="126a-027-01_1"/>
+		<edge from="126a-027-01_1" to="126a-027-01_2"/>
+		<edge from="126a-027-01_2" to="126a-027-01_3"/>
+		<edge from="126a-027-01_4" to="126a-027-01_5"/>
+		<edge from="126a-027-01_6" to="126a-027-01_7"/>
+		<edge from="126a-027-01_8" to="126a-027-01_9"/>
+		<edge from="126a-027-01_7" to="126a-027-01_3"/>
+		<edge from="126a-027-01_3" to="126a-027-01_8"/>
+		<edge from="126a-027-01_9" to="126a-027-01_10"/>
+		<edge from="126a-027-01_5" to="126a-027-01_0"/>
+		<edge from="126a-027-01_0" to="126a-027-01_11"/>
+	</graph>
+</gxl>

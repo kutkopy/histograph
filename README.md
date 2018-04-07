@@ -75,7 +75,7 @@ For reference Keyword Spottings results of the four different handwritten histor
 
 ##### Speed up approach by menas of fast rejection
 
-*[4] M. Stauffer, A. Fischer, K. Riesen, [Filters for Graph-Based Keyword Spotting in Historical Handwritten Do cuments](https://www.researchgate.net/publication/324125812_Filters_for_Graph-Based_Keyword_Spotting_in_Historical_Handwritten_Documents), Pattern Recognit. Lett. (2018).*
+*[4] M. Stauffer, A. Fischer, K. Riesen, [Filters for Graph-Based Keyword Spotting in Historical Handwritten Documents](https://www.researchgate.net/publication/324125812_Filters_for_Graph-Based_Keyword_Spotting_in_Historical_Handwritten_Documents), Pattern Recognit. Lett. (2018).*
 
 ##### Ensembles
 

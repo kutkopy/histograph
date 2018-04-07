@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="265a-046-01">
+		<attr name="x_std">
+			<float>4.331627</float>
+		</attr>
+		<attr name="y_std">
+			<float>5.365325</float>
+		</attr>
+		<node id="265a-046-01_0">
+			<attr name="x">
+				<float>0.6783004</float>
+			</attr>
+			<attr name="y">
+				<float>-0.31896302</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_1">
+			<attr name="x">
+				<float>1.1400206</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13258101</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_2">
+			<attr name="x">
+				<float>-1.1685807</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2508731</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_3">
+			<attr name="x">
+				<float>-1.3994408</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87810904</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_4">
+			<attr name="x">
+				<float>-0.7068604</float>
+			</attr>
+			<attr name="y">
+				<float>-1.437255</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_5">
+			<attr name="x">
+				<float>-0.7068604</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87810904</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_6">
+			<attr name="x">
+				<float>-0.7068604</float>
+			</attr>
+			<attr name="y">
+				<float>1.917621</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_7">
+			<attr name="x">
+				<float>-0.7068604</float>
+			</attr>
+			<attr name="y">
+				<float>1.3584751</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_8">
+			<attr name="x">
+				<float>1.8326011</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87810904</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_9">
+			<attr name="x">
+				<float>1.1400206</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87810904</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_10">
+			<attr name="x">
+				<float>-1.3994408</float>
+			</attr>
+			<attr name="y">
+				<float>0.612947</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_11">
+			<attr name="x">
+				<float>-0.7068604</float>
+			</attr>
+			<attr name="y">
+				<float>0.612947</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_12">
+			<attr name="x">
+				<float>-1.3994408</float>
+			</attr>
+			<attr name="y">
+				<float>1.172093</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_13">
+			<attr name="x">
+				<float>-1.6303009</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13258101</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_14">
+			<attr name="x">
+				<float>-0.93772054</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13258101</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_15">
+			<attr name="x">
+				<float>0.21658012</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6236371</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_16">
+			<attr name="x">
+				<float>0.9091605</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6236371</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_17">
+			<attr name="x">
+				<float>0.21658012</float>
+			</attr>
+			<attr name="y">
+				<float>0.79932904</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_18">
+			<attr name="x">
+				<float>0.21658012</float>
+			</attr>
+			<attr name="y">
+				<float>1.3584751</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_19">
+			<attr name="x">
+				<float>1.1400206</float>
+			</attr>
+			<attr name="y">
+				<float>0.612947</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_20">
+			<attr name="x">
+				<float>0.9091605</float>
+			</attr>
+			<attr name="y">
+				<float>1.172093</float>
+			</attr>
+		</node>
+		<node id="265a-046-01_21">
+			<attr name="x">
+				<float>0.21658012</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87810904</float>
+			</attr>
+		</node>
+		<edge from="265a-046-01_0" to="265a-046-01_1"/>
+		<edge from="265a-046-01_2" to="265a-046-01_3"/>
+		<edge from="265a-046-01_4" to="265a-046-01_2"/>
+		<edge from="265a-046-01_5" to="265a-046-01_4"/>
+		<edge from="265a-046-01_6" to="265a-046-01_7"/>
+		<edge from="265a-046-01_8" to="265a-046-01_9"/>
+		<edge from="265a-046-01_10" to="265a-046-01_11"/>
+		<edge from="265a-046-01_10" to="265a-046-01_12"/>
+		<edge from="265a-046-01_13" to="265a-046-01_14"/>
+		<edge from="265a-046-01_15" to="265a-046-01_16"/>
+		<edge from="265a-046-01_17" to="265a-046-01_18"/>
+		<edge from="265a-046-01_12" to="265a-046-01_7"/>
+		<edge from="265a-046-01_19" to="265a-046-01_20"/>
+		<edge from="265a-046-01_20" to="265a-046-01_18"/>
+		<edge from="265a-046-01_21" to="265a-046-01_0"/>
+		<edge from="265a-046-01_18" to="265a-046-01_7"/>
+		<edge from="265a-046-01_19" to="265a-046-01_1"/>
+		<edge from="265a-046-01_21" to="265a-046-01_5"/>
+		<edge from="265a-046-01_21" to="265a-046-01_9"/>
+		<edge from="265a-046-01_15" to="265a-046-01_21"/>
+		<edge from="265a-046-01_11" to="265a-046-01_14"/>
+	</graph>
+</gxl>
