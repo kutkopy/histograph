@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="kw001928">
+		<attr name="x_std">
+			<float>9.432811</float>
+		</attr>
+		<attr name="y_std">
+			<float>14.745788</float>
+		</attr>
+		<node id="kw001928_0">
+			<attr name="x">
+				<float>-1.6514827</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0797576</float>
+			</attr>
+		</node>
+		<node id="kw001928_1">
+			<attr name="x">
+				<float>-1.333444</float>
+			</attr>
+			<attr name="y">
+				<float>-0.9441256</float>
+			</attr>
+		</node>
+		<node id="kw001928_2">
+			<attr name="x">
+				<float>-1.6514827</float>
+			</attr>
+			<attr name="y">
+				<float>-0.74067765</float>
+			</attr>
+		</node>
+		<node id="kw001928_3">
+			<attr name="x">
+				<float>0.99884063</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0797576</float>
+			</attr>
+		</node>
+		<node id="kw001928_4">
+			<attr name="x">
+				<float>-0.69736636</float>
+			</attr>
+			<attr name="y">
+				<float>-0.9441256</float>
+			</attr>
+		</node>
+		<node id="kw001928_5">
+			<attr name="x">
+				<float>1.2108665</float>
+			</attr>
+			<attr name="y">
+				<float>0.34437802</float>
+			</attr>
+		</node>
+		<node id="kw001928_6">
+			<attr name="x">
+				<float>1.8469441</float>
+			</attr>
+			<attr name="y">
+				<float>-0.13033384</float>
+			</attr>
+		</node>
+		<node id="kw001928_7">
+			<attr name="x">
+				<float>-1.333444</float>
+			</attr>
+			<attr name="y">
+				<float>1.7685136</float>
+			</attr>
+		</node>
+		<node id="kw001928_8">
+			<attr name="x">
+				<float>0.044724207</float>
+			</attr>
+			<attr name="y">
+				<float>1.0903537</float>
+			</attr>
+		</node>
+		<edge from="kw001928_0" to="kw001928_1"/>
+		<edge from="kw001928_1" to="kw001928_2"/>
+		<edge from="kw001928_3" to="kw001928_4"/>
+		<edge from="kw001928_4" to="kw001928_1"/>
+		<edge from="kw001928_5" to="kw001928_6"/>
+		<edge from="kw001928_7" to="kw001928_8"/>
+		<edge from="kw001928_8" to="kw001928_5"/>
+	</graph>
+</gxl>

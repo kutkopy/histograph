@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="kw001957">
+		<attr name="x_std">
+			<float>4.0708017</float>
+		</attr>
+		<attr name="y_std">
+			<float>1.3587325</float>
+		</attr>
+		<node id="kw001957_0">
+			<attr name="x">
+				<float>1.5791904</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4719602</float>
+			</attr>
+		</node>
+		<node id="kw001957_1">
+			<attr name="x">
+				<float>-1.3686317</float>
+			</attr>
+			<attr name="y">
+				<float>2.20794</float>
+			</attr>
+		</node>
+		<edge from="kw001957_0" to="kw001957_1"/>
+	</graph>
+</gxl>

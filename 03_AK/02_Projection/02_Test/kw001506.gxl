@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="kw001506">
+		<attr name="x_std">
+			<float>24.131676</float>
+		</attr>
+		<attr name="y_std">
+			<float>34.476692</float>
+		</attr>
+		<node id="kw001506_0">
+			<attr name="x">
+				<float>-1.1416816</float>
+			</attr>
+			<attr name="y">
+				<float>1.3060101</float>
+			</attr>
+		</node>
+		<node id="kw001506_1">
+			<attr name="x">
+				<float>-1.473196</float>
+			</attr>
+			<attr name="y">
+				<float>1.5960611</float>
+			</attr>
+		</node>
+		<node id="kw001506_2">
+			<attr name="x">
+				<float>-0.14713807</float>
+			</attr>
+			<attr name="y">
+				<float>-0.057229716</float>
+			</attr>
+		</node>
+		<node id="kw001506_3">
+			<attr name="x">
+				<float>-0.35433462</float>
+			</attr>
+			<attr name="y">
+				<float>0.1168009</float>
+			</attr>
+		</node>
+		<node id="kw001506_4">
+			<attr name="x">
+				<float>0.43301228</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4494746</float>
+			</attr>
+		</node>
+		<node id="kw001506_5">
+			<attr name="x">
+				<float>0.43301228</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1594236</float>
+			</attr>
+		</node>
+		<node id="kw001506_6">
+			<attr name="x">
+				<float>0.39157295</float>
+			</attr>
+			<attr name="y">
+				<float>-0.9563879</float>
+			</attr>
+		</node>
+		<node id="kw001506_7">
+			<attr name="x">
+				<float>0.59876955</float>
+			</attr>
+			<attr name="y">
+				<float>-0.6083267</float>
+			</attr>
+		</node>
+		<node id="kw001506_8">
+			<attr name="x">
+				<float>0.39157295</float>
+			</attr>
+			<attr name="y">
+				<float>-0.28927052</float>
+			</attr>
+		</node>
+		<node id="kw001506_9">
+			<attr name="x">
+				<float>0.5158909</float>
+			</attr>
+			<attr name="y">
+				<float>-0.057229716</float>
+			</attr>
+		</node>
+		<node id="kw001506_10">
+			<attr name="x">
+				<float>0.59876955</float>
+			</attr>
+			<attr name="y">
+				<float>0.2618264</float>
+			</attr>
+		</node>
+		<node id="kw001506_11">
+			<attr name="x">
+				<float>0.30869433</float>
+			</attr>
+			<attr name="y">
+				<float>0.55187744</float>
+			</attr>
+		</node>
+		<node id="kw001506_12">
+			<attr name="x">
+				<float>0.1429371</float>
+			</attr>
+			<attr name="y">
+				<float>0.72590804</float>
+			</attr>
+		</node>
+		<node id="kw001506_13">
+			<attr name="x">
+				<float>1.2617985</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1594236</float>
+			</attr>
+		</node>
+		<node id="kw001506_14">
+			<attr name="x">
+				<float>1.0546019</float>
+			</attr>
+			<attr name="y">
+				<float>-0.9563879</float>
+			</attr>
+		</node>
+		<node id="kw001506_15">
+			<attr name="x">
+				<float>-1.9290285</float>
+			</attr>
+			<attr name="y">
+				<float>1.3930254</float>
+			</attr>
+		</node>
+		<node id="kw001506_16">
+			<attr name="x">
+				<float>-0.35433462</float>
+			</attr>
+			<attr name="y">
+				<float>0.95794886</float>
+			</attr>
+		</node>
+		<node id="kw001506_17">
+			<attr name="x">
+				<float>0.060058475</float>
+			</attr>
+			<attr name="y">
+				<float>-0.8113624</float>
+			</attr>
+		</node>
+		<edge from="kw001506_0" to="kw001506_1"/>
+		<edge from="kw001506_2" to="kw001506_3"/>
+		<edge from="kw001506_4" to="kw001506_5"/>
+		<edge from="kw001506_5" to="kw001506_6"/>
+		<edge from="kw001506_6" to="kw001506_7"/>
+		<edge from="kw001506_7" to="kw001506_8"/>
+		<edge from="kw001506_8" to="kw001506_9"/>
+		<edge from="kw001506_9" to="kw001506_10"/>
+		<edge from="kw001506_10" to="kw001506_11"/>
+		<edge from="kw001506_11" to="kw001506_12"/>
+		<edge from="kw001506_13" to="kw001506_14"/>
+		<edge from="kw001506_15" to="kw001506_0"/>
+		<edge from="kw001506_0" to="kw001506_16"/>
+		<edge from="kw001506_16" to="kw001506_12"/>
+		<edge from="kw001506_5" to="kw001506_13"/>
+		<edge from="kw001506_6" to="kw001506_14"/>
+		<edge from="kw001506_17" to="kw001506_6"/>
+		<edge from="kw001506_2" to="kw001506_8"/>
+	</graph>
+</gxl>

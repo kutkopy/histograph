@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="kw000252">
+		<attr name="x_std">
+			<float>29.808855</float>
+		</attr>
+		<attr name="y_std">
+			<float>40.894524</float>
+		</attr>
+		<node id="kw000252_0">
+			<attr name="x">
+				<float>-0.11856365</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6721935</float>
+			</attr>
+		</node>
+		<node id="kw000252_1">
+			<attr name="x">
+				<float>0.25045422</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9656314</float>
+			</attr>
+		</node>
+		<node id="kw000252_2">
+			<attr name="x">
+				<float>0.72011334</float>
+			</attr>
+			<attr name="y">
+				<float>-2.234616</float>
+			</attr>
+		</node>
+		<node id="kw000252_3">
+			<attr name="x">
+				<float>0.7872075</float>
+			</attr>
+			<attr name="y">
+				<float>-2.234616</float>
+			</attr>
+		</node>
+		<node id="kw000252_4">
+			<attr name="x">
+				<float>1.5587903</float>
+			</attr>
+			<attr name="y">
+				<float>0.35741797</float>
+			</attr>
+		</node>
+		<node id="kw000252_5">
+			<attr name="x">
+				<float>1.3910549</float>
+			</attr>
+			<attr name="y">
+				<float>0.47968373</float>
+			</attr>
+		</node>
+		<node id="kw000252_6">
+			<attr name="x">
+				<float>-1.963653</float>
+			</attr>
+			<attr name="y">
+				<float>0.60194945</float>
+			</attr>
+		</node>
+		<node id="kw000252_7">
+			<attr name="x">
+				<float>-1.4939939</float>
+			</attr>
+			<attr name="y">
+				<float>0.47968373</float>
+			</attr>
+		</node>
+		<node id="kw000252_8">
+			<attr name="x">
+				<float>-0.92369354</float>
+			</attr>
+			<attr name="y">
+				<float>0.50413686</float>
+			</attr>
+		</node>
+		<node id="kw000252_9">
+			<attr name="x">
+				<float>-0.3533932</float>
+			</attr>
+			<attr name="y">
+				<float>0.50413686</float>
+			</attr>
+		</node>
+		<node id="kw000252_10">
+			<attr name="x">
+				<float>0.21690714</float>
+			</attr>
+			<attr name="y">
+				<float>0.50413686</float>
+			</attr>
+		</node>
+		<node id="kw000252_11">
+			<attr name="x">
+				<float>0.7872075</float>
+			</attr>
+			<attr name="y">
+				<float>0.47968373</float>
+			</attr>
+		</node>
+		<node id="kw000252_12">
+			<attr name="x">
+				<float>1.3239608</float>
+			</attr>
+			<attr name="y">
+				<float>0.60194945</float>
+			</attr>
+		</node>
+		<node id="kw000252_13">
+			<attr name="x">
+				<float>1.424602</float>
+			</attr>
+			<attr name="y">
+				<float>0.5530432</float>
+			</attr>
+		</node>
+		<node id="kw000252_14">
+			<attr name="x">
+				<float>1.5252433</float>
+			</attr>
+			<attr name="y">
+				<float>0.5530432</float>
+			</attr>
+		</node>
+		<edge from="kw000252_0" to="kw000252_1"/>
+		<edge from="kw000252_1" to="kw000252_2"/>
+		<edge from="kw000252_2" to="kw000252_3"/>
+		<edge from="kw000252_4" to="kw000252_5"/>
+		<edge from="kw000252_6" to="kw000252_7"/>
+		<edge from="kw000252_7" to="kw000252_8"/>
+		<edge from="kw000252_8" to="kw000252_9"/>
+		<edge from="kw000252_9" to="kw000252_10"/>
+		<edge from="kw000252_10" to="kw000252_11"/>
+		<edge from="kw000252_11" to="kw000252_5"/>
+		<edge from="kw000252_12" to="kw000252_13"/>
+		<edge from="kw000252_5" to="kw000252_13"/>
+		<edge from="kw000252_14" to="kw000252_13"/>
+	</graph>
+</gxl>
