@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw000598">
+		<attr name="x_std">
+			<float>17.811546</float>
+		</attr>
+		<attr name="y_std">
+			<float>11.037903</float>
+		</attr>
+		<node id="bw000598_0">
+			<attr name="x">
+				<float>0.15923417</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9361186</float>
+			</attr>
+		</node>
+		<node id="bw000598_1">
+			<attr name="x">
+				<float>-0.5144861</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0301495</float>
+			</attr>
+		</node>
+		<node id="bw000598_2">
+			<attr name="x">
+				<float>-0.68291616</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2113433</float>
+			</attr>
+		</node>
+		<node id="bw000598_3">
+			<attr name="x">
+				<float>-0.5706294</float>
+			</attr>
+			<attr name="y">
+				<float>-0.75835866</float>
+			</attr>
+		</node>
+		<node id="bw000598_4">
+			<attr name="x">
+				<float>-1.0197763</float>
+			</attr>
+			<attr name="y">
+				<float>1.2347735</float>
+			</attr>
+		</node>
+		<node id="bw000598_5">
+			<attr name="x">
+				<float>-1.0197763</float>
+			</attr>
+			<attr name="y">
+				<float>-0.21477717</float>
+			</attr>
+		</node>
+		<node id="bw000598_6">
+			<attr name="x">
+				<float>-1.1882063</float>
+			</attr>
+			<attr name="y">
+				<float>1.6877581</float>
+			</attr>
+		</node>
+		<node id="bw000598_7">
+			<attr name="x">
+				<float>-0.1214826</float>
+			</attr>
+			<attr name="y">
+				<float>1.0535797</float>
+			</attr>
+		</node>
+		<node id="bw000598_8">
+			<attr name="x">
+				<float>0.7206677</float>
+			</attr>
+			<attr name="y">
+				<float>0.41940126</float>
+			</attr>
+		</node>
+		<node id="bw000598_9">
+			<attr name="x">
+				<float>1.5066746</float>
+			</attr>
+			<attr name="y">
+				<float>-0.395971</float>
+			</attr>
+		</node>
+		<node id="bw000598_10">
+			<attr name="x">
+				<float>1.7873914</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5771648</float>
+			</attr>
+		</node>
+		<node id="bw000598_11">
+			<attr name="x">
+				<float>1.9558215</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2113433</float>
+			</attr>
+		</node>
+		<node id="bw000598_12">
+			<attr name="x">
+				<float>-0.5144861</float>
+			</attr>
+			<attr name="y">
+				<float>-0.4865679</float>
+			</attr>
+		</node>
+		<node id="bw000598_13">
+			<attr name="x">
+				<float>1.9558215</float>
+			</attr>
+			<attr name="y">
+				<float>-0.395971</float>
+			</attr>
+		</node>
+		<edge from="bw000598_0" to="bw000598_1"/>
+		<edge from="bw000598_2" to="bw000598_1"/>
+		<edge from="bw000598_1" to="bw000598_3"/>
+		<edge from="bw000598_4" to="bw000598_5"/>
+		<edge from="bw000598_5" to="bw000598_3"/>
+		<edge from="bw000598_4" to="bw000598_6"/>
+		<edge from="bw000598_4" to="bw000598_7"/>
+		<edge from="bw000598_7" to="bw000598_8"/>
+		<edge from="bw000598_8" to="bw000598_9"/>
+		<edge from="bw000598_9" to="bw000598_10"/>
+		<edge from="bw000598_11" to="bw000598_10"/>
+		<edge from="bw000598_3" to="bw000598_12"/>
+		<edge from="bw000598_13" to="bw000598_10"/>
+	</graph>
+</gxl>

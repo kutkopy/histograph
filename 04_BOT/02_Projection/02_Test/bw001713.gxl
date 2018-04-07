@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw001713">
+		<attr name="x_std">
+			<float>31.483183</float>
+		</attr>
+		<attr name="y_std">
+			<float>6.3991823</float>
+		</attr>
+		<node id="bw001713_0">
+			<attr name="x">
+				<float>-1.4632685</float>
+			</attr>
+			<attr name="y">
+				<float>0.4180744</float>
+			</attr>
+		</node>
+		<node id="bw001713_1">
+			<attr name="x">
+				<float>-1.1138756</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4571652</float>
+			</attr>
+		</node>
+		<node id="bw001713_2">
+			<attr name="x">
+				<float>-1.0185866</float>
+			</attr>
+			<attr name="y">
+				<float>0.5743444</float>
+			</attr>
+		</node>
+		<node id="bw001713_3">
+			<attr name="x">
+				<float>-0.5739048</float>
+			</attr>
+			<attr name="y">
+				<float>0.4180744</float>
+			</attr>
+		</node>
+		<node id="bw001713_4">
+			<attr name="x">
+				<float>-0.065697</float>
+			</attr>
+			<attr name="y">
+				<float>0.26180443</float>
+			</attr>
+		</node>
+		<node id="bw001713_5">
+			<attr name="x">
+				<float>0.34722185</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5195454</float>
+			</attr>
+		</node>
+		<node id="bw001713_6">
+			<attr name="x">
+				<float>0.9189556</float>
+			</attr>
+			<attr name="y">
+				<float>-0.050735496</float>
+			</attr>
+		</node>
+		<node id="bw001713_7">
+			<attr name="x">
+				<float>1.3318745</float>
+			</attr>
+			<attr name="y">
+				<float>-0.8320853</float>
+			</attr>
+		</node>
+		<node id="bw001713_8">
+			<attr name="x">
+				<float>1.6812674</float>
+			</attr>
+			<attr name="y">
+				<float>0.73061436</float>
+			</attr>
+		</node>
+		<node id="bw001713_9">
+			<attr name="x">
+				<float>1.8083193</float>
+			</attr>
+			<attr name="y">
+				<float>0.73061436</float>
+			</attr>
+		</node>
+		<edge from="bw001713_0" to="bw001713_1"/>
+		<edge from="bw001713_0" to="bw001713_2"/>
+		<edge from="bw001713_2" to="bw001713_3"/>
+		<edge from="bw001713_3" to="bw001713_4"/>
+		<edge from="bw001713_4" to="bw001713_5"/>
+		<edge from="bw001713_5" to="bw001713_6"/>
+		<edge from="bw001713_6" to="bw001713_7"/>
+		<edge from="bw001713_7" to="bw001713_8"/>
+		<edge from="bw001713_8" to="bw001713_9"/>
+	</graph>
+</gxl>

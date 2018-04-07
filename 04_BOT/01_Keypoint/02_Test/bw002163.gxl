@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw002163">
+		<attr name="x_std">
+			<float>16.020166</float>
+		</attr>
+		<attr name="y_std">
+			<float>30.099031</float>
+		</attr>
+		<node id="bw002163_0">
+			<attr name="x">
+				<float>-0.67102927</float>
+			</attr>
+			<attr name="y">
+				<float>-0.0943854</float>
+			</attr>
+		</node>
+		<node id="bw002163_1">
+			<attr name="x">
+				<float>-0.42134395</float>
+			</attr>
+			<attr name="y">
+				<float>-0.19405638</float>
+			</attr>
+		</node>
+		<node id="bw002163_2">
+			<attr name="x">
+				<float>1.6385598</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3236609</float>
+			</attr>
+		</node>
+		<node id="bw002163_3">
+			<attr name="x">
+				<float>1.5761385</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2572135</float>
+			</attr>
+		</node>
+		<node id="bw002163_4">
+			<attr name="x">
+				<float>-0.2965013</float>
+			</attr>
+			<attr name="y">
+				<float>-0.72563493</float>
+			</attr>
+		</node>
+		<node id="bw002163_5">
+			<attr name="x">
+				<float>0.3901333</float>
+			</attr>
+			<attr name="y">
+				<float>-1.1575426</float>
+			</attr>
+		</node>
+		<node id="bw002163_6">
+			<attr name="x">
+				<float>1.3264532</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3236609</float>
+			</attr>
+		</node>
+		<node id="bw002163_7">
+			<attr name="x">
+				<float>0.3901333</float>
+			</attr>
+			<attr name="y">
+				<float>-0.02793808</float>
+			</attr>
+		</node>
+		<node id="bw002163_8">
+			<attr name="x">
+				<float>0.9519252</float>
+			</attr>
+			<attr name="y">
+				<float>-0.426622</float>
+			</attr>
+		</node>
+		<node id="bw002163_9">
+			<attr name="x">
+				<float>1.5137172</float>
+			</attr>
+			<attr name="y">
+				<float>-0.89175326</float>
+			</attr>
+		</node>
+		<node id="bw002163_10">
+			<attr name="x">
+				<float>-0.046815995</float>
+			</attr>
+			<attr name="y">
+				<float>0.47041684</float>
+			</attr>
+		</node>
+		<node id="bw002163_11">
+			<attr name="x">
+				<float>-0.60860795</float>
+			</attr>
+			<attr name="y">
+				<float>0.93554807</float>
+			</attr>
+		</node>
+		<node id="bw002163_12">
+			<attr name="x">
+				<float>-0.60860795</float>
+			</attr>
+			<attr name="y">
+				<float>1.0019954</float>
+			</attr>
+		</node>
+		<node id="bw002163_13">
+			<attr name="x">
+				<float>-0.48376527</float>
+			</attr>
+			<attr name="y">
+				<float>1.0684427</float>
+			</attr>
+		</node>
+		<node id="bw002163_14">
+			<attr name="x">
+				<float>-1.2952425</float>
+			</attr>
+			<attr name="y">
+				<float>1.4006793</float>
+			</attr>
+		</node>
+		<node id="bw002163_15">
+			<attr name="x">
+				<float>-1.8570344</float>
+			</attr>
+			<attr name="y">
+				<float>1.8325869</float>
+			</attr>
+		</node>
+		<node id="bw002163_16">
+			<attr name="x">
+				<float>-2.1067197</float>
+			</attr>
+			<attr name="y">
+				<float>1.9654815</float>
+			</attr>
+		</node>
+		<node id="bw002163_17">
+			<attr name="x">
+				<float>-1.6073492</float>
+			</attr>
+			<attr name="y">
+				<float>1.9654815</float>
+			</attr>
+		</node>
+		<edge from="bw002163_0" to="bw002163_1"/>
+		<edge from="bw002163_2" to="bw002163_3"/>
+		<edge from="bw002163_1" to="bw002163_4"/>
+		<edge from="bw002163_4" to="bw002163_5"/>
+		<edge from="bw002163_5" to="bw002163_6"/>
+		<edge from="bw002163_6" to="bw002163_3"/>
+		<edge from="bw002163_7" to="bw002163_1"/>
+		<edge from="bw002163_7" to="bw002163_8"/>
+		<edge from="bw002163_8" to="bw002163_9"/>
+		<edge from="bw002163_9" to="bw002163_3"/>
+		<edge from="bw002163_7" to="bw002163_10"/>
+		<edge from="bw002163_10" to="bw002163_11"/>
+		<edge from="bw002163_11" to="bw002163_12"/>
+		<edge from="bw002163_13" to="bw002163_12"/>
+		<edge from="bw002163_12" to="bw002163_14"/>
+		<edge from="bw002163_14" to="bw002163_15"/>
+		<edge from="bw002163_16" to="bw002163_15"/>
+		<edge from="bw002163_15" to="bw002163_17"/>
+	</graph>
+</gxl>

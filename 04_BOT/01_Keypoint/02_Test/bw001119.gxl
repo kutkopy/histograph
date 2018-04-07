@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw001119">
+		<attr name="x_std">
+			<float>15.784722</float>
+		</attr>
+		<attr name="y_std">
+			<float>20.262268</float>
+		</attr>
+		<node id="bw001119_0">
+			<attr name="x">
+				<float>0.34682754</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9996254</float>
+			</attr>
+		</node>
+		<node id="bw001119_1">
+			<attr name="x">
+				<float>0.4101799</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9009198</float>
+			</attr>
+		</node>
+		<node id="bw001119_2">
+			<attr name="x">
+				<float>0.28347513</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7528614</float>
+			</attr>
+		</node>
+		<node id="bw001119_3">
+			<attr name="x">
+				<float>0.8536467</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5554502</float>
+			</attr>
+		</node>
+		<node id="bw001119_4">
+			<attr name="x">
+				<float>1.0437039</float>
+			</attr>
+			<attr name="y">
+				<float>-1.4073917</float>
+			</attr>
+		</node>
+		<node id="bw001119_5">
+			<attr name="x">
+				<float>0.6635895</float>
+			</attr>
+			<attr name="y">
+				<float>-1.851567</float>
+			</attr>
+		</node>
+		<node id="bw001119_6">
+			<attr name="x">
+				<float>0.9169991</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9996254</float>
+			</attr>
+		</node>
+		<node id="bw001119_7">
+			<attr name="x">
+				<float>0.8536467</float>
+			</attr>
+			<attr name="y">
+				<float>0.5173681</float>
+			</attr>
+		</node>
+		<node id="bw001119_8">
+			<attr name="x">
+				<float>1.6772279</float>
+			</attr>
+			<attr name="y">
+				<float>-0.025512896</float>
+			</attr>
+		</node>
+		<node id="bw001119_9">
+			<attr name="x">
+				<float>1.867285</float>
+			</attr>
+			<attr name="y">
+				<float>-0.17357133</float>
+			</attr>
+		</node>
+		<node id="bw001119_10">
+			<attr name="x">
+				<float>0.7269419</float>
+			</attr>
+			<attr name="y">
+				<float>0.61607367</float>
+			</attr>
+		</node>
+		<node id="bw001119_11">
+			<attr name="x">
+				<float>0.47353232</float>
+			</attr>
+			<attr name="y">
+				<float>0.6654265</float>
+			</attr>
+		</node>
+		<node id="bw001119_12">
+			<attr name="x">
+				<float>0.7269419</float>
+			</attr>
+			<attr name="y">
+				<float>0.46801525</float>
+			</attr>
+		</node>
+		<node id="bw001119_13">
+			<attr name="x">
+				<float>-1.3636872</float>
+			</attr>
+			<attr name="y">
+				<float>0.61607367</float>
+			</attr>
+		</node>
+		<node id="bw001119_14">
+			<attr name="x">
+				<float>-1.4270396</float>
+			</attr>
+			<attr name="y">
+				<float>0.61607367</float>
+			</attr>
+		</node>
+		<node id="bw001119_15">
+			<attr name="x">
+				<float>-0.6034584</float>
+			</attr>
+			<attr name="y">
+				<float>0.17189837</float>
+			</attr>
+		</node>
+		<node id="bw001119_16">
+			<attr name="x">
+				<float>-0.47675362</float>
+			</attr>
+			<attr name="y">
+				<float>0.12254555</float>
+			</attr>
+		</node>
+		<node id="bw001119_17">
+			<attr name="x">
+				<float>-0.540106</float>
+			</attr>
+			<attr name="y">
+				<float>0.76413214</float>
+			</attr>
+		</node>
+		<node id="bw001119_18">
+			<attr name="x">
+				<float>-1.6804491</float>
+			</attr>
+			<attr name="y">
+				<float>0.91219056</float>
+			</attr>
+		</node>
+		<node id="bw001119_19">
+			<attr name="x">
+				<float>0.7902943</float>
+			</attr>
+			<attr name="y">
+				<float>0.5667209</float>
+			</attr>
+		</node>
+		<node id="bw001119_20">
+			<attr name="x">
+				<float>-1.490392</float>
+			</attr>
+			<attr name="y">
+				<float>0.5667209</float>
+			</attr>
+		</node>
+		<node id="bw001119_21">
+			<attr name="x">
+				<float>-1.6170968</float>
+			</attr>
+			<attr name="y">
+				<float>0.3199568</float>
+			</attr>
+		</node>
+		<node id="bw001119_22">
+			<attr name="x">
+				<float>0.60023713</float>
+			</attr>
+			<attr name="y">
+				<float>0.5667209</float>
+			</attr>
+		</node>
+		<edge from="bw001119_0" to="bw001119_1"/>
+		<edge from="bw001119_1" to="bw001119_2"/>
+		<edge from="bw001119_3" to="bw001119_4"/>
+		<edge from="bw001119_3" to="bw001119_5"/>
+		<edge from="bw001119_6" to="bw001119_5"/>
+		<edge from="bw001119_1" to="bw001119_5"/>
+		<edge from="bw001119_7" to="bw001119_8"/>
+		<edge from="bw001119_8" to="bw001119_9"/>
+		<edge from="bw001119_10" to="bw001119_11"/>
+		<edge from="bw001119_10" to="bw001119_12"/>
+		<edge from="bw001119_13" to="bw001119_14"/>
+		<edge from="bw001119_13" to="bw001119_15"/>
+		<edge from="bw001119_15" to="bw001119_16"/>
+		<edge from="bw001119_14" to="bw001119_17"/>
+		<edge from="bw001119_17" to="bw001119_11"/>
+		<edge from="bw001119_14" to="bw001119_15"/>
+		<edge from="bw001119_14" to="bw001119_18"/>
+		<edge from="bw001119_12" to="bw001119_7"/>
+		<edge from="bw001119_7" to="bw001119_19"/>
+		<edge from="bw001119_20" to="bw001119_21"/>
+		<edge from="bw001119_22" to="bw001119_11"/>
+	</graph>
+</gxl>

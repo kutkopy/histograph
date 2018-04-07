@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw000100">
+		<attr name="x_std">
+			<float>60.39749</float>
+		</attr>
+		<attr name="y_std">
+			<float>14.446464</float>
+		</attr>
+		<node id="bw000100_0">
+			<attr name="x">
+				<float>-0.45493987</float>
+			</attr>
+			<attr name="y">
+				<float>-2.9522452</float>
+			</attr>
+		</node>
+		<node id="bw000100_1">
+			<attr name="x">
+				<float>-0.6867376</float>
+			</attr>
+			<attr name="y">
+				<float>-2.60614</float>
+			</attr>
+		</node>
+		<node id="bw000100_2">
+			<attr name="x">
+				<float>-0.80263644</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6370445</float>
+			</attr>
+		</node>
+		<node id="bw000100_3">
+			<attr name="x">
+				<float>-0.7032946</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2909391</float>
+			</attr>
+		</node>
+		<node id="bw000100_4">
+			<attr name="x">
+				<float>-1.4318017</float>
+			</attr>
+			<attr name="y">
+				<float>0.9241358</float>
+			</attr>
+		</node>
+		<node id="bw000100_5">
+			<attr name="x">
+				<float>-1.1668899</float>
+			</attr>
+			<attr name="y">
+				<float>0.6472515</float>
+			</attr>
+		</node>
+		<node id="bw000100_6">
+			<attr name="x">
+				<float>-0.95164925</float>
+			</attr>
+			<attr name="y">
+				<float>-0.114180535</float>
+			</attr>
+		</node>
+		<node id="bw000100_7">
+			<attr name="x">
+				<float>-0.7695225</float>
+			</attr>
+			<attr name="y">
+				<float>-0.94483364</float>
+			</attr>
+		</node>
+		<node id="bw000100_8">
+			<attr name="x">
+				<float>-0.6701806</float>
+			</attr>
+			<attr name="y">
+				<float>-1.221718</float>
+			</attr>
+		</node>
+		<node id="bw000100_9">
+			<attr name="x">
+				<float>-0.6867376</float>
+			</attr>
+			<attr name="y">
+				<float>-1.221718</float>
+			</attr>
+		</node>
+		<node id="bw000100_10">
+			<attr name="x">
+				<float>-0.5542818</float>
+			</attr>
+			<attr name="y">
+				<float>-2.1908133</float>
+			</attr>
+		</node>
+		<node id="bw000100_11">
+			<attr name="x">
+				<float>-0.5211678</float>
+			</attr>
+			<attr name="y">
+				<float>-2.60614</float>
+			</attr>
+		</node>
+		<node id="bw000100_12">
+			<attr name="x">
+				<float>-0.6039527</float>
+			</attr>
+			<attr name="y">
+				<float>-1.0140548</float>
+			</attr>
+		</node>
+		<node id="bw000100_13">
+			<attr name="x">
+				<float>-1.5477005</float>
+			</attr>
+			<attr name="y">
+				<float>-0.04495944</float>
+			</attr>
+		</node>
+		<node id="bw000100_14">
+			<attr name="x">
+				<float>-1.3986877</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5295071</float>
+			</attr>
+		</node>
+		<node id="bw000100_15">
+			<attr name="x">
+				<float>-1.5808145</float>
+			</attr>
+			<attr name="y">
+				<float>-0.18340163</float>
+			</attr>
+		</node>
+		<node id="bw000100_16">
+			<attr name="x">
+				<float>-1.4483587</float>
+			</attr>
+			<attr name="y">
+				<float>0.78569365</float>
+			</attr>
+		</node>
+		<node id="bw000100_17">
+			<attr name="x">
+				<float>-1.5973715</float>
+			</attr>
+			<attr name="y">
+				<float>0.16270383</float>
+			</attr>
+		</node>
+		<node id="bw000100_18">
+			<attr name="x">
+				<float>-1.6801564</float>
+			</attr>
+			<attr name="y">
+				<float>0.99335694</float>
+			</attr>
+		</node>
+		<node id="bw000100_19">
+			<attr name="x">
+				<float>-1.4483587</float>
+			</attr>
+			<attr name="y">
+				<float>0.9241358</float>
+			</attr>
+		</node>
+		<node id="bw000100_20">
+			<attr name="x">
+				<float>0.37290907</float>
+			</attr>
+			<attr name="y">
+				<float>0.301146</float>
+			</attr>
+		</node>
+		<node id="bw000100_21">
+			<attr name="x">
+				<float>0.5715928</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5987282</float>
+			</attr>
+		</node>
+		<node id="bw000100_22">
+			<attr name="x">
+				<float>0.8033905</float>
+			</attr>
+			<attr name="y">
+				<float>-1.3601601</float>
+			</attr>
+		</node>
+		<node id="bw000100_23">
+			<attr name="x">
+				<float>0.91928935</float>
+			</attr>
+			<attr name="y">
+				<float>-1.6370445</float>
+			</attr>
+		</node>
+		<node id="bw000100_24">
+			<attr name="x">
+				<float>0.9689603</float>
+			</attr>
+			<attr name="y">
+				<float>-1.8447078</float>
+			</attr>
+		</node>
+		<node id="bw000100_25">
+			<attr name="x">
+				<float>0.98551726</float>
+			</attr>
+			<attr name="y">
+				<float>-1.5678234</float>
+			</attr>
+		</node>
+		<node id="bw000100_26">
+			<attr name="x">
+				<float>-0.09068634</float>
+			</attr>
+			<attr name="y">
+				<float>0.78569365</float>
+			</attr>
+		</node>
+		<node id="bw000100_27">
+			<attr name="x">
+				<float>-0.33904102</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<node id="bw000100_28">
+			<attr name="x">
+				<float>-0.42182592</float>
+			</attr>
+			<attr name="y">
+				<float>0.71647257</float>
+			</attr>
+		</node>
+		<node id="bw000100_29">
+			<attr name="x">
+				<float>0.025212508</float>
+			</attr>
+			<attr name="y">
+				<float>0.6472515</float>
+			</attr>
+		</node>
+		<node id="bw000100_30">
+			<attr name="x">
+				<float>0.1907823</float>
+			</attr>
+			<attr name="y">
+				<float>0.301146</float>
+			</attr>
+		</node>
+		<node id="bw000100_31">
+			<attr name="x">
+				<float>-0.4383829</float>
+			</attr>
+			<attr name="y">
+				<float>0.4395882</float>
+			</attr>
+		</node>
+		<node id="bw000100_32">
+			<attr name="x">
+				<float>-0.47149685</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<node id="bw000100_33">
+			<attr name="x">
+				<float>-0.5377248</float>
+			</attr>
+			<attr name="y">
+				<float>0.02426165</float>
+			</attr>
+		</node>
+		<node id="bw000100_34">
+			<attr name="x">
+				<float>-0.4383829</float>
+			</attr>
+			<attr name="y">
+				<float>-0.39106488</float>
+			</attr>
+		</node>
+		<node id="bw000100_35">
+			<attr name="x">
+				<float>-0.23969916</float>
+			</attr>
+			<attr name="y">
+				<float>-0.114180535</float>
+			</attr>
+		</node>
+		<node id="bw000100_36">
+			<attr name="x">
+				<float>-0.25625613</float>
+			</attr>
+			<attr name="y">
+				<float>0.02426165</float>
+			</attr>
+		</node>
+		<node id="bw000100_37">
+			<attr name="x">
+				<float>-0.6701806</float>
+			</attr>
+			<attr name="y">
+				<float>0.23192492</float>
+			</attr>
+		</node>
+		<node id="bw000100_38">
+			<attr name="x">
+				<float>-0.09068634</float>
+			</attr>
+			<attr name="y">
+				<float>1.062578</float>
+			</attr>
+		</node>
+		<node id="bw000100_39">
+			<attr name="x">
+				<float>-0.71985155</float>
+			</attr>
+			<attr name="y">
+				<float>0.02426165</float>
+			</attr>
+		</node>
+		<node id="bw000100_40">
+			<attr name="x">
+				<float>-0.78607947</float>
+			</attr>
+			<attr name="y">
+				<float>0.9241358</float>
+			</attr>
+		</node>
+		<node id="bw000100_41">
+			<attr name="x">
+				<float>0.42258</float>
+			</attr>
+			<attr name="y">
+				<float>0.99335694</float>
+			</attr>
+		</node>
+		<node id="bw000100_42">
+			<attr name="x">
+				<float>0.3563521</float>
+			</attr>
+			<attr name="y">
+				<float>0.78569365</float>
+			</attr>
+		</node>
+		<node id="bw000100_43">
+			<attr name="x">
+				<float>0.32323813</float>
+			</attr>
+			<attr name="y">
+				<float>0.99335694</float>
+			</attr>
+		</node>
+		<node id="bw000100_44">
+			<attr name="x">
+				<float>-0.22314218</float>
+			</attr>
+			<attr name="y">
+				<float>0.09348274</float>
+			</attr>
+		</node>
+		<node id="bw000100_45">
+			<attr name="x">
+				<float>1.7968092</float>
+			</attr>
+			<attr name="y">
+				<float>-0.460286</float>
+			</attr>
+		</node>
+		<node id="bw000100_46">
+			<attr name="x">
+				<float>1.5815685</float>
+			</attr>
+			<attr name="y">
+				<float>0.23192492</float>
+			</attr>
+		</node>
+		<node id="bw000100_47">
+			<attr name="x">
+				<float>1.4987836</float>
+			</attr>
+			<attr name="y">
+				<float>0.6472515</float>
+			</attr>
+		</node>
+		<node id="bw000100_48">
+			<attr name="x">
+				<float>1.2504289</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<node id="bw000100_49">
+			<attr name="x">
+				<float>1.184201</float>
+			</attr>
+			<attr name="y">
+				<float>0.78569365</float>
+			</attr>
+		</node>
+		<node id="bw000100_50">
+			<attr name="x">
+				<float>0.75371957</float>
+			</attr>
+			<attr name="y">
+				<float>0.5780304</float>
+			</attr>
+		</node>
+		<node id="bw000100_51">
+			<attr name="x">
+				<float>0.5053649</float>
+			</attr>
+			<attr name="y">
+				<float>0.9241358</float>
+			</attr>
+		</node>
+		<node id="bw000100_52">
+			<attr name="x">
+				<float>0.45569396</float>
+			</attr>
+			<attr name="y">
+				<float>0.99335694</float>
+			</attr>
+		</node>
+		<node id="bw000100_53">
+			<attr name="x">
+				<float>1.0186312</float>
+			</attr>
+			<attr name="y">
+				<float>-0.25262272</float>
+			</attr>
+		</node>
+		<node id="bw000100_54">
+			<attr name="x">
+				<float>1.0020742</float>
+			</attr>
+			<attr name="y">
+				<float>-0.114180535</float>
+			</attr>
+		</node>
+		<node id="bw000100_55">
+			<attr name="x">
+				<float>0.83650446</float>
+			</attr>
+			<attr name="y">
+				<float>0.16270383</float>
+			</attr>
+		</node>
+		<node id="bw000100_56">
+			<attr name="x">
+				<float>1.8299232</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<node id="bw000100_57">
+			<attr name="x">
+				<float>1.5815685</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<node id="bw000100_58">
+			<attr name="x">
+				<float>1.151087</float>
+			</attr>
+			<attr name="y">
+				<float>0.6472515</float>
+			</attr>
+		</node>
+		<node id="bw000100_59">
+			<attr name="x">
+				<float>1.3828847</float>
+			</attr>
+			<attr name="y">
+				<float>0.02426165</float>
+			</attr>
+		</node>
+		<node id="bw000100_60">
+			<attr name="x">
+				<float>1.4491127</float>
+			</attr>
+			<attr name="y">
+				<float>-0.114180535</float>
+			</attr>
+		</node>
+		<node id="bw000100_61">
+			<attr name="x">
+				<float>1.167644</float>
+			</attr>
+			<attr name="y">
+				<float>0.9241358</float>
+			</attr>
+		</node>
+		<node id="bw000100_62">
+			<attr name="x">
+				<float>0.8861754</float>
+			</attr>
+			<attr name="y">
+				<float>0.8549147</float>
+			</attr>
+		</node>
+		<edge from="bw000100_0" to="bw000100_1"/>
+		<edge from="bw000100_1" to="bw000100_2"/>
+		<edge from="bw000100_2" to="bw000100_3"/>
+		<edge from="bw000100_4" to="bw000100_5"/>
+		<edge from="bw000100_5" to="bw000100_6"/>
+		<edge from="bw000100_6" to="bw000100_7"/>
+		<edge from="bw000100_7" to="bw000100_3"/>
+		<edge from="bw000100_8" to="bw000100_9"/>
+		<edge from="bw000100_8" to="bw000100_3"/>
+		<edge from="bw000100_8" to="bw000100_10"/>
+		<edge from="bw000100_10" to="bw000100_11"/>
+		<edge from="bw000100_9" to="bw000100_3"/>
+		<edge from="bw000100_3" to="bw000100_10"/>
+		<edge from="bw000100_12" to="bw000100_8"/>
+		<edge from="bw000100_13" to="bw000100_14"/>
+		<edge from="bw000100_15" to="bw000100_13"/>
+		<edge from="bw000100_13" to="bw000100_16"/>
+		<edge from="bw000100_16" to="bw000100_4"/>
+		<edge from="bw000100_17" to="bw000100_18"/>
+		<edge from="bw000100_18" to="bw000100_19"/>
+		<edge from="bw000100_19" to="bw000100_4"/>
+		<edge from="bw000100_20" to="bw000100_21"/>
+		<edge from="bw000100_21" to="bw000100_22"/>
+		<edge from="bw000100_22" to="bw000100_23"/>
+		<edge from="bw000100_23" to="bw000100_24"/>
+		<edge from="bw000100_25" to="bw000100_23"/>
+		<edge from="bw000100_26" to="bw000100_27"/>
+		<edge from="bw000100_27" to="bw000100_28"/>
+		<edge from="bw000100_26" to="bw000100_29"/>
+		<edge from="bw000100_29" to="bw000100_30"/>
+		<edge from="bw000100_31" to="bw000100_28"/>
+		<edge from="bw000100_28" to="bw000100_32"/>
+		<edge from="bw000100_33" to="bw000100_34"/>
+		<edge from="bw000100_35" to="bw000100_36"/>
+		<edge from="bw000100_31" to="bw000100_36"/>
+		<edge from="bw000100_31" to="bw000100_33"/>
+		<edge from="bw000100_33" to="bw000100_37"/>
+		<edge from="bw000100_26" to="bw000100_38"/>
+		<edge from="bw000100_39" to="bw000100_37"/>
+		<edge from="bw000100_37" to="bw000100_40"/>
+		<edge from="bw000100_41" to="bw000100_42"/>
+		<edge from="bw000100_42" to="bw000100_43"/>
+		<edge from="bw000100_44" to="bw000100_36"/>
+		<edge from="bw000100_20" to="bw000100_42"/>
+		<edge from="bw000100_20" to="bw000100_30"/>
+		<edge from="bw000100_45" to="bw000100_46"/>
+		<edge from="bw000100_46" to="bw000100_47"/>
+		<edge from="bw000100_47" to="bw000100_48"/>
+		<edge from="bw000100_48" to="bw000100_49"/>
+		<edge from="bw000100_50" to="bw000100_51"/>
+		<edge from="bw000100_51" to="bw000100_52"/>
+		<edge from="bw000100_53" to="bw000100_54"/>
+		<edge from="bw000100_55" to="bw000100_54"/>
+		<edge from="bw000100_56" to="bw000100_57"/>
+		<edge from="bw000100_57" to="bw000100_47"/>
+		<edge from="bw000100_58" to="bw000100_49"/>
+		<edge from="bw000100_58" to="bw000100_59"/>
+		<edge from="bw000100_59" to="bw000100_60"/>
+		<edge from="bw000100_49" to="bw000100_61"/>
+		<edge from="bw000100_55" to="bw000100_50"/>
+		<edge from="bw000100_58" to="bw000100_62"/>
+		<edge from="bw000100_62" to="bw000100_50"/>
+	</graph>
+</gxl>

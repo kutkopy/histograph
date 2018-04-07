@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgeids="false" edgemode="undirected" id="bw000029">
+		<attr name="x_std">
+			<float>20.304998</float>
+		</attr>
+		<attr name="y_std">
+			<float>20.095156</float>
+		</attr>
+		<node id="bw000029_0">
+			<attr name="x">
+				<float>-1.7582835</float>
+			</attr>
+			<attr name="y">
+				<float>-0.42827195</float>
+			</attr>
+		</node>
+		<node id="bw000029_1">
+			<attr name="x">
+				<float>-2.1030262</float>
+			</attr>
+			<attr name="y">
+				<float>-0.229219</float>
+			</attr>
+		</node>
+		<node id="bw000029_2">
+			<attr name="x">
+				<float>-1.6597856</float>
+			</attr>
+			<attr name="y">
+				<float>1.014862</float>
+			</attr>
+		</node>
+		<node id="bw000029_3">
+			<attr name="x">
+				<float>-1.9552794</float>
+			</attr>
+			<attr name="y">
+				<float>1.4129678</float>
+			</attr>
+		</node>
+		<node id="bw000029_4">
+			<attr name="x">
+				<float>-0.8718023</float>
+			</attr>
+			<attr name="y">
+				<float>0.31817663</float>
+			</attr>
+		</node>
+		<node id="bw000029_5">
+			<attr name="x">
+				<float>-0.92105126</float>
+			</attr>
+			<attr name="y">
+				<float>0.96509874</float>
+			</attr>
+		</node>
+		<node id="bw000029_6">
+			<attr name="x">
+				<float>-0.083818965</float>
+			</attr>
+			<attr name="y">
+				<float>-0.5277984</float>
+			</attr>
+		</node>
+		<node id="bw000029_7">
+			<attr name="x">
+				<float>-0.37931272</float>
+			</attr>
+			<attr name="y">
+				<float>0.06936043</float>
+			</attr>
+		</node>
+		<node id="bw000029_8">
+			<attr name="x">
+				<float>0.7534133</float>
+			</attr>
+			<attr name="y">
+				<float>-1.2244837</float>
+			</attr>
+		</node>
+		<node id="bw000029_9">
+			<attr name="x">
+				<float>0.5564175</float>
+			</attr>
+			<attr name="y">
+				<float>-0.82637787</float>
+			</attr>
+		</node>
+		<node id="bw000029_10">
+			<attr name="x">
+				<float>0.60566646</float>
+			</attr>
+			<attr name="y">
+				<float>1.1143885</float>
+			</attr>
+		</node>
+		<node id="bw000029_11">
+			<attr name="x">
+				<float>0.5564175</float>
+			</attr>
+			<attr name="y">
+				<float>1.7115473</float>
+			</attr>
+		</node>
+		<node id="bw000029_12">
+			<attr name="x">
+				<float>1.196654</float>
+			</attr>
+			<attr name="y">
+				<float>0.616756</float>
+			</attr>
+		</node>
+		<node id="bw000029_13">
+			<attr name="x">
+				<float>1.2459029</float>
+			</attr>
+			<attr name="y">
+				<float>0.8655722</float>
+			</attr>
+		</node>
+		<node id="bw000029_14">
+			<attr name="x">
+				<float>1.3936498</float>
+			</attr>
+			<attr name="y">
+				<float>-1.7221161</float>
+			</attr>
+		</node>
+		<node id="bw000029_15">
+			<attr name="x">
+				<float>1.0981561</float>
+			</attr>
+			<attr name="y">
+				<float>-0.87614113</float>
+			</attr>
+		</node>
+		<node id="bw000029_16">
+			<attr name="x">
+				<float>1.048907</float>
+			</attr>
+			<attr name="y">
+				<float>1.1641517</float>
+			</attr>
+		</node>
+		<node id="bw000029_17">
+			<attr name="x">
+				<float>1.8368905</float>
+			</attr>
+			<attr name="y">
+				<float>-2.070459</float>
+			</attr>
+		</node>
+		<node id="bw000029_18">
+			<attr name="x">
+				<float>1.9353883</float>
+			</attr>
+			<attr name="y">
+				<float>-1.9709324</float>
+			</attr>
+		</node>
+		<edge from="bw000029_0" to="bw000029_1"/>
+		<edge from="bw000029_2" to="bw000029_3"/>
+		<edge from="bw000029_4" to="bw000029_5"/>
+		<edge from="bw000029_6" to="bw000029_7"/>
+		<edge from="bw000029_8" to="bw000029_9"/>
+		<edge from="bw000029_10" to="bw000029_11"/>
+		<edge from="bw000029_12" to="bw000029_13"/>
+		<edge from="bw000029_2" to="bw000029_5"/>
+		<edge from="bw000029_4" to="bw000029_7"/>
+		<edge from="bw000029_6" to="bw000029_9"/>
+		<edge from="bw000029_8" to="bw000029_14"/>
+		<edge from="bw000029_9" to="bw000029_15"/>
+		<edge from="bw000029_10" to="bw000029_16"/>
+		<edge from="bw000029_14" to="bw000029_17"/>
+		<edge from="bw000029_17" to="bw000029_18"/>
+	</graph>
+</gxl>
