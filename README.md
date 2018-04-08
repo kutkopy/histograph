@@ -50,15 +50,20 @@ The resulting graphs or more precisely the (x,y)-coordinates of the node labels 
 `x-norm = (x - µ(x))\σ(x)` and `y-norm = (y - µ(y))\σ(y)`
 
 
-where (µ(x),µ(y)) and (\σ(x),σ(y)) represent the mean and standard deviation of all (x,y)-coordinates in the graph under consideration.
+where (µ(x),µ(y)) and (σ(x),σ(y)) represent the mean and standard deviation of all (x,y)-coordinates in the graph under consideration.
 
 # Keyword Spotting Setup
 
+In the following we describe the Keyword Spotting test setup for each of the four manuscripts. For each manuscript a ground truth can be found in the subfolder `./00_GroundTruth`.
+
 ## GW and PAR
 
+To reproduce the test results achieved on GW and PAR, extract all keywords (see `keywords.txt`) in `train.txt` and match or classify them with all words from `test.txt`. Note that GW is a four-fold, and thus, this procedure needs to repeated for each fold (i.e. each subfolder `./cv1` to `./cv4`) and then the accuracy (e.g. Average Precision and Mean Average Precision) needs to be averaged over the four folds.
 
 
 ## AK and BOT
+
+To reproduce the test results achieved on AK and BOT, all keywords in `queries.txt` are matched or classified with all words from `words.txt` (see subfolder `./02_Test`). Note that the ground truth in subfolder `./01_Train` can be used for meta parameter optimisation only.
 
 # Keyword Spotting Reference Results
 For reference Keyword Spottings results of the four different handwritten historical documents with different fast suboptimal algorithms for Graph Edit Distance we refer to the following papers:
